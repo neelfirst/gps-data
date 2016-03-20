@@ -1,0 +1,3187 @@
+Fri Mar 18 13:29:21 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39581000 deg
+  Longitude    : -121.98252170 deg
+  Altitude     : -00029.032 m
+  Pos Acc      : 04.26  03.03  03.63 m
+  Vel Acc      : 00.37 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	45 	+0.41 	Y	7	31	175	Eph	Y		Y
+  6  	6  	32 	+1.08 	Y	7	8 	269	Eph	Y		Y
+  7  	7  	43 	-0.48 	Y	7	43	265	Eph	Y		Y
+  9  	9  	43 	+0.45 	Y	7	61	326	Eph	Y		Y
+  0  	16 	42 	-0.77 	Y	7	44	56 	Eph	Y		Y
+  1  	23 	42 	-0.52 	Y	7	72	66 	Eph	Y		Y
+  4  	26 	34 	-4.88 	Y	7	18	41 	Eph	Y		Y
+  14 	27 	32 	-7.98 	Y	7	13	107	Eph	Y		Y
+  3  	30 	43 	-0.99 	Y	7	15	251	Eph	Y		Y
+  5  	138	33 	+0.96 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	309	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	7 	136	---	Y		N
+  12 	11 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	12 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	34 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:29:50 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39579360 deg
+  Longitude    : -121.98253080 deg
+  Altitude     : -00023.893 m
+  Pos Acc      : 04.62  03.28  03.89 m
+  Vel Acc      : 00.43 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	41 	-1.68 	Y	7	31	175	Eph	Y		Y
+  6  	6  	33 	+1.29 	Y	6	7 	268	Eph	Y		Y
+  7  	7  	42 	+0.33 	Y	7	43	265	Eph	Y		Y
+  9  	9  	44 	-2.51 	Y	7	62	326	Eph	Y		Y
+  0  	16 	40 	+1.02 	Y	7	44	56 	Eph	Y		Y
+  1  	23 	41 	+2.38 	Y	7	72	67 	Eph	Y		Y
+  4  	26 	32 	-5.38 	Y	4	18	41 	Eph	Y		Y
+  14 	27 	38 	+1.44 	Y	7	13	107	Eph	Y		Y
+  3  	30 	43 	+0.50 	Y	7	15	251	Eph	Y		Y
+  5  	138	37 	-3.16 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	309	Eph	Y		N
+  13 	8  	27 	-826.74	N	4	8 	136	---	Y		N
+  12 	13 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	14 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:30:19 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39580300 deg
+  Longitude    : -121.98251640 deg
+  Altitude     : -00028.545 m
+  Pos Acc      : 04.20  02.98  03.40 m
+  Vel Acc      : 00.43 m/s
+  Time Acc     : 2    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	40 	+0.43 	Y	7	31	175	Eph	Y		Y
+  6  	6  	35 	-2.52 	Y	7	7 	268	Eph	Y		Y
+  7  	7  	44 	+1.06 	Y	7	43	265	Eph	Y		Y
+  9  	9  	41 	-2.14 	Y	7	62	326	Eph	Y		Y
+  0  	16 	40 	+2.09 	Y	7	43	56 	Eph	Y		Y
+  1  	23 	41 	+0.19 	Y	7	72	68 	Eph	Y		Y
+  4  	26 	34 	-6.96 	Y	7	18	41 	Eph	Y		Y
+  14 	27 	38 	+2.06 	Y	7	14	107	Eph	Y		Y
+  3  	30 	42 	-0.65 	Y	7	16	252	Eph	Y		Y
+  5  	138	36 	-3.42 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	308	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	8 	136	---	Y		N
+  12 	13 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	14 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:30:47 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39578840 deg
+  Longitude    : -121.98251290 deg
+  Altitude     : -00027.591 m
+  Pos Acc      : 04.65  03.30  03.85 m
+  Vel Acc      : 00.24 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	43 	-2.60 	Y	7	31	175	Eph	Y		Y
+  6  	6  	35 	-1.39 	Y	7	7 	268	Eph	Y		Y
+  7  	7  	44 	+0.49 	Y	7	43	266	Eph	Y		Y
+  9  	9  	41 	-0.72 	Y	7	62	326	Eph	Y		Y
+  0  	16 	40 	-0.53 	Y	7	43	55 	Eph	Y		Y
+  1  	23 	41 	-0.09 	Y	7	72	68 	Eph	Y		Y
+  4  	26 	33 	-7.33 	Y	5	18	41 	Eph	Y		Y
+  14 	27 	36 	+2.82 	Y	7	14	107	Eph	Y		Y
+  3  	30 	41 	+1.13 	Y	7	16	252	Eph	Y		Y
+  5  	138	36 	-4.15 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	308	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	8 	136	---	Y		N
+  12 	15 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	17 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:31:16 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39580360 deg
+  Longitude    : -121.98251110 deg
+  Altitude     : -00029.840 m
+  Pos Acc      : 05.31  03.77  04.40 m
+  Vel Acc      : 00.61 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	45 	-2.18 	Y	7	31	175	Eph	Y		Y
+  6  	6  	34 	+0.65 	Y	6	7 	268	Eph	Y		Y
+  7  	7  	44 	+1.02 	Y	7	43	266	Eph	Y		Y
+  9  	9  	43 	-3.28 	Y	7	62	326	Eph	Y		Y
+  0  	16 	40 	+0.48 	Y	7	43	55 	Eph	Y		Y
+  1  	23 	42 	+1.36 	Y	7	72	69 	Eph	Y		Y
+  4  	26 	33 	-9.87 	Y	6	17	41 	Eph	Y		Y
+  14 	27 	36 	+1.13 	Y	6	14	106	Eph	Y		Y
+  3  	30 	43 	-0.65 	Y	7	16	252	Eph	Y		Y
+  5  	138	37 	-3.05 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	308	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	8 	136	---	Y		N
+  12 	15 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	17 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:31:45 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39579370 deg
+  Longitude    : -121.98252490 deg
+  Altitude     : -00029.160 m
+  Pos Acc      : 04.98  03.54  04.11 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	-2.16 	Y	6	30	175	Eph	Y		Y
+  6  	6  	34 	-0.89 	Y	6	7 	268	Eph	Y		Y
+  7  	7  	43 	+2.18 	Y	6	44	266	Eph	Y		Y
+  9  	9  	42 	-3.22 	Y	6	62	327	Eph	Y		Y
+  0  	16 	40 	-0.46 	Y	6	43	55 	Eph	Y		Y
+  1  	23 	43 	-0.01 	Y	6	72	70 	Eph	Y		Y
+  4  	26 	28 	-5.90 	Y	4	17	41 	Eph	Y		Y
+  14 	27 	38 	-0.73 	Y	6	14	106	Eph	Y		Y
+  3  	30 	44 	-1.74 	Y	6	16	252	Eph	Y		Y
+  5  	138	38 	-3.01 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	308	Eph	Y		N
+  13 	8  	29 	-848.30	N	4	8 	135	---	Y		N
+  12 	18 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	19 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:32:14 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39578930 deg
+  Longitude    : -121.98252260 deg
+  Altitude     : -00026.604 m
+  Pos Acc      : 04.35  03.09  03.66 m
+  Vel Acc      : 00.48 m/s
+  Time Acc     : 2    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	47 	+0.94 	Y	7	30	175	Eph	Y		Y
+  6  	6  	34 	-0.64 	Y	5	7 	268	Eph	Y		Y
+  7  	7  	43 	-1.12 	Y	7	44	266	Eph	Y		Y
+  9  	9  	41 	-1.15 	Y	6	63	327	Eph	Y		Y
+  0  	16 	40 	+2.08 	Y	6	43	55 	Eph	Y		Y
+  1  	23 	44 	-2.08 	Y	7	72	70 	Eph	Y		Y
+  4  	26 	28 	-11.19	Y	4	17	41 	Eph	Y		Y
+  14 	27 	39 	-1.85 	Y	6	14	106	Eph	Y		Y
+  3  	30 	43 	-2.35 	Y	7	16	252	Eph	Y		Y
+  5  	138	38 	-3.82 	Y	6	44	156	Eph	Y		Y
+  11 	2  	25 	+0.00 	N	3	1 	308	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	8 	135	Eph	Y		N
+  12 	18 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	19 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:32:43 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39578280 deg
+  Longitude    : -121.98250180 deg
+  Altitude     : -00025.382 m
+  Pos Acc      : 04.92  03.49  04.11 m
+  Vel Acc      : 00.64 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	+0.72 	Y	7	30	175	Eph	Y		Y
+  6  	6  	33 	-1.42 	Y	7	7 	267	Eph	Y		Y
+  7  	7  	45 	+0.58 	Y	7	44	267	Eph	Y		Y
+  9  	9  	42 	-1.87 	Y	7	63	327	Eph	Y		Y
+  0  	16 	40 	+1.39 	Y	7	43	54 	Eph	Y		Y
+  1  	23 	41 	-0.13 	Y	7	72	71 	Eph	Y		Y
+  4  	26 	26 	-1.51 	Y	4	17	41 	Eph	Y		Y
+  14 	27 	39 	-3.01 	Y	7	14	106	Eph	Y		Y
+  3  	30 	43 	-0.33 	Y	7	16	252	Eph	Y		Y
+  5  	138	37 	-5.11 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	308	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	8 	135	Eph	Y		N
+  12 	20 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	21 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	30 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:33:12 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 9
+  Latitude     : +37.39576700 deg
+  Longitude    : -121.98251170 deg
+  Altitude     : -00021.703 m
+  Pos Acc      : 04.41  02.74  03.75 m
+  Vel Acc      : 00.54 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	47 	-1.36 	Y	7	30	175	Eph	Y		Y
+  6  	6  	32 	+1.93 	Y	6	7 	267	Eph	Y		Y
+  7  	7  	44 	+0.75 	Y	7	44	267	Eph	Y		Y
+  9  	9  	43 	+0.05 	Y	7	63	327	Eph	Y		Y
+  0  	16 	40 	-0.49 	Y	7	43	54 	Eph	Y		Y
+  1  	23 	40 	+0.48 	Y	7	72	72 	Eph	Y		Y
+  14 	27 	38 	+1.00 	Y	7	14	106	Eph	Y		Y
+  3  	30 	42 	+0.38 	Y	7	16	253	Eph	Y		Y
+  5  	138	36 	-4.78 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	307	Eph	Y		N
+  13 	8  	27 	-26.80	N	4	9 	135	Eph	Y		Y
+  12 	20 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	21 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  4  	26 	0  	+0.00 	N	1	17	41 	Eph	Y		N
+  8  	133	31 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:33:41 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39573880 deg
+  Longitude    : -121.98256850 deg
+  Altitude     : -00023.718 m
+  Pos Acc      : 05.28  03.75  04.42 m
+  Vel Acc      : 00.28 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	42 	-0.21 	Y	6	29	175	Eph	Y		Y
+  6  	6  	22 	+4.89 	Y	4	7 	267	Eph	Y		Y
+  7  	7  	38 	-1.38 	Y	6	44	267	Eph	Y		Y
+  9  	9  	42 	-0.65 	Y	6	63	327	Eph	Y		Y
+  0  	16 	36 	-0.38 	Y	4	42	54 	Eph	Y		Y
+  1  	23 	44 	-1.54 	Y	7	72	72 	Eph	Y		Y
+  4  	26 	36 	+1.15 	Y	4	16	41 	Eph	Y		Y
+  14 	27 	38 	-0.10 	Y	6	14	105	Eph	Y		Y
+  3  	30 	39 	-0.48 	Y	4	17	253	Eph	Y		Y
+  5  	138	34 	-2.06 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	1 	307	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	9 	135	Eph	Y		N
+  12 	22 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	24 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	29 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:34:10 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 11
+  Latitude     : +37.39591270 deg
+  Longitude    : -121.98009280 deg
+  Altitude     : -00028.282 m
+  Pos Acc      : 07.26  05.22  04.69 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	32 	+0.14 	Y	4	29	175	Eph	Y		N
+  6  	6  	20 	-0.92 	Y	4	7 	267	Eph	Y		N
+  7  	7  	29 	+5.22 	Y	4	44	267	Eph	Y		N
+  13 	8  	30 	+5.49 	Y	4	9 	135	Eph	Y		N
+  9  	9  	29 	-10.59	Y	4	64	328	Eph	Y		N
+  0  	16 	40 	-1.50 	Y	7	42	54 	Eph	Y		N
+  1  	23 	46 	-0.10 	Y	6	71	73 	Eph	Y		N
+  4  	26 	41 	+0.13 	Y	6	16	41 	Eph	Y		N
+  14 	27 	24 	-2.99 	Y	4	14	105	Eph	Y		N
+  3  	30 	27 	-1.32 	Y	4	17	253	Eph	Y		N
+  5  	138	35 	-0.44 	Y	6	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	1 	307	Eph	Y		N
+  12 	22 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  15 	24 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  8  	133	27 	+0.00 	N	4	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:34:39 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 11
+  Latitude     : +37.39598140 deg
+  Longitude    : -121.97825940 deg
+  Altitude     : -00024.954 m
+  Pos Acc      : 07.20  05.18  05.23 m
+  Vel Acc      : 00.30 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	+15.55	Y	4	29	175	Eph	Y		Y
+  6  	6  	38 	+0.15 	Y	7	6 	267	Eph	Y		Y
+  7  	7  	23 	+4.66 	Y	4	45	268	Eph	Y		Y
+  13 	8  	29 	+4.05 	Y	4	9 	135	Eph	Y		Y
+  9  	9  	40 	+1.77 	Y	7	64	328	Eph	Y		Y
+  0  	16 	42 	+0.26 	Y	7	42	54 	Eph	Y		Y
+  1  	23 	46 	+1.74 	Y	7	71	74 	Eph	Y		Y
+  4  	26 	32 	+5.43 	Y	4	16	41 	Eph	Y		Y
+  14 	27 	28 	-1.45 	Y	4	15	105	Eph	Y		N
+  3  	30 	33 	+2.74 	Y	6	17	253	Eph	Y		N
+  5  	138	38 	+0.24 	Y	6	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	307	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  15 	20 	0  	+0.00 	N	1	-43	353	---	Y		N
+  8  	133	36 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:35:08 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.39648270 deg
+  Longitude    : -121.97783320 deg
+  Altitude     : -00026.656 m
+  Pos Acc      : 06.57  03.74  05.52 m
+  Vel Acc      : 00.38 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	44 	-0.38 	Y	6	29	175	Eph	Y		Y
+  6  	6  	21 	-7.44 	Y	4	6 	266	Eph	Y		Y
+  7  	7  	44 	-2.19 	Y	6	45	268	Eph	Y		Y
+  13 	8  	29 	+3.26 	Y	4	9 	134	Eph	Y		Y
+  9  	9  	46 	-0.86 	Y	6	64	328	Eph	Y		Y
+  0  	16 	41 	+0.71 	Y	6	42	53 	Eph	Y		Y
+  1  	23 	43 	+0.02 	Y	6	71	74 	Eph	Y		Y
+  14 	27 	36 	-2.45 	Y	4	15	105	Eph	Y		Y
+  3  	30 	39 	-0.92 	Y	6	17	253	Eph	Y		Y
+  5  	138	35 	-1.24 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	307	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  15 	20 	0  	+0.00 	N	1	-43	353	---	Y		N
+  4  	26 	0  	+0.00 	N	1	16	41 	Eph	Y		N
+  8  	133	32 	+0.00 	N	6	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:35:37 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.40083310 deg
+  Longitude    : -121.97765390 deg
+  Altitude     : -00024.912 m
+  Pos Acc      : 07.83  06.85  06.77 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	45 	+0.27 	Y	6	28	175	Eph	Y		Y
+  7  	7  	44 	-0.89 	Y	6	45	268	Eph	Y		Y
+  9  	9  	45 	-0.16 	Y	6	64	328	Eph	Y		Y
+  0  	16 	40 	+0.81 	Y	6	42	53 	Eph	Y		Y
+  1  	23 	46 	-1.20 	Y	6	71	75 	Eph	Y		Y
+  4  	26 	30 	+0.29 	Y	4	16	41 	Eph	Y		Y
+  14 	27 	29 	+0.15 	Y	4	15	105	Eph	Y		Y
+  3  	30 	40 	-2.60 	Y	6	17	253	Eph	Y		Y
+  8  	133	35 	-2.20 	Y	5	41	142	Eph	Y		N
+  5  	138	31 	-0.03 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	306	Eph	Y		N
+  6  	6  	30 	-236.96	N	4	6 	266	Eph	Y		Y
+  13 	8  	36 	-71.71	N	4	9 	134	Eph	Y		Y
+  12 	22 	0  	+0.00 	N	1	-10	153	---	Y		N
+  15 	24 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:36:05 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 11
+  Latitude     : +37.40367440 deg
+  Longitude    : -121.97762430 deg
+  Altitude     : -00026.623 m
+  Pos Acc      : 07.08  05.31  06.19 m
+  Vel Acc      : 00.47 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	+0.77 	Y	6	28	175	Eph	Y		Y
+  6  	6  	31 	-1.44 	Y	4	6 	266	Eph	Y		Y
+  7  	7  	43 	-0.09 	Y	6	45	268	Eph	Y		Y
+  9  	9  	47 	+0.65 	Y	6	64	329	Eph	Y		Y
+  0  	16 	44 	+0.79 	Y	6	42	53 	Eph	Y		Y
+  1  	23 	46 	+0.31 	Y	6	71	76 	Eph	Y		Y
+  4  	26 	27 	+1.99 	Y	4	16	41 	Eph	Y		Y
+  14 	27 	31 	-1.87 	Y	4	15	105	Eph	Y		Y
+  3  	30 	39 	+0.99 	Y	4	17	253	Eph	Y		Y
+  8  	133	34 	-3.13 	Y	4	41	142	Eph	Y		N
+  5  	138	35 	-0.60 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	306	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	10	134	Eph	Y		N
+  12 	22 	0  	+0.00 	N	1	-11	153	---	Y		N
+  15 	24 	0  	+0.00 	N	1	-91	0  	none	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:36:34 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 10
+  Latitude     : +37.40695510 deg
+  Longitude    : -121.97764160 deg
+  Altitude     : -00025.832 m
+  Pos Acc      : 06.81  05.96  05.99 m
+  Vel Acc      : 00.48 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	-0.54 	Y	6	28	175	Eph	Y		Y
+  7  	7  	42 	-0.81 	Y	7	45	269	Eph	Y		Y
+  9  	9  	46 	+0.52 	Y	7	65	329	Eph	Y		Y
+  0  	16 	32 	+0.03 	Y	4	41	53 	Eph	Y		Y
+  1  	23 	46 	-0.44 	Y	7	71	76 	Eph	Y		Y
+  4  	26 	23 	+0.26 	Y	4	15	41 	Eph	Y		Y
+  14 	27 	31 	+0.18 	Y	4	15	104	Eph	Y		Y
+  3  	30 	38 	-0.09 	Y	4	17	254	Eph	Y		Y
+  8  	133	34 	-1.96 	Y	6	41	142	Eph	Y		N
+  5  	138	32 	-1.36 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	306	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	20 	-33.46	N	4	6 	266	Eph	Y		Y
+  13 	8  	0  	+0.00 	N	1	10	134	Eph	Y		N
+  15 	24 	0  	+0.00 	N	1	-74	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:37:03 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 11
+  Latitude     : +37.41033120 deg
+  Longitude    : -121.97757840 deg
+  Altitude     : -00025.589 m
+  Pos Acc      : 04.53  03.14  03.89 m
+  Vel Acc      : 01.01 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	-1.26 	Y	7	28	175	Eph	Y		Y
+  6  	6  	32 	-1.69 	Y	6	6 	266	Eph	Y		Y
+  7  	7  	40 	-0.88 	Y	7	45	269	Eph	Y		Y
+  13 	8  	30 	+8.94 	Y	5	10	134	Eph	Y		Y
+  9  	9  	45 	+0.20 	Y	7	65	329	Eph	Y		Y
+  0  	16 	45 	-0.62 	Y	7	41	52 	Eph	Y		Y
+  1  	23 	44 	-0.08 	Y	7	71	77 	Eph	Y		Y
+  4  	26 	31 	+5.31 	Y	6	15	41 	Eph	Y		Y
+  14 	27 	26 	+6.86 	Y	4	15	104	Eph	Y		N
+  3  	30 	38 	-2.95 	Y	6	18	254	Eph	Y		N
+  8  	133	34 	-0.18 	Y	4	41	142	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	306	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  15 	24 	0  	+0.00 	N	1	-74	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:37:32 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 12
+  Latitude     : +37.41033510 deg
+  Longitude    : -121.97755790 deg
+  Altitude     : -00028.185 m
+  Pos Acc      : 04.26  03.19  03.59 m
+  Vel Acc      : 00.37 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	45 	+0.82 	Y	7	28	175	Eph	Y		N
+  6  	6  	32 	+1.82 	Y	7	6 	265	Eph	Y		N
+  7  	7  	38 	+1.63 	Y	7	45	269	Eph	Y		N
+  13 	8  	33 	+4.38 	Y	7	10	134	Eph	Y		N
+  9  	9  	47 	-1.11 	Y	7	65	329	Eph	Y		N
+  0  	16 	42 	+0.47 	Y	7	41	52 	Eph	Y		N
+  1  	23 	45 	-2.45 	Y	7	71	78 	Eph	Y		N
+  4  	26 	31 	-4.62 	Y	6	15	40 	Eph	Y		N
+  14 	27 	30 	+2.34 	Y	6	15	104	Eph	Y		N
+  3  	30 	42 	-1.60 	Y	7	18	254	Eph	Y		N
+  8  	133	34 	-2.17 	Y	4	41	142	Eph	Y		N
+  5  	138	33 	+1.88 	Y	4	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	306	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:38:01 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.41167810 deg
+  Longitude    : -121.97752560 deg
+  Altitude     : -00028.738 m
+  Pos Acc      : 06.24  04.08  05.35 m
+  Vel Acc      : 00.34 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	-0.40 	Y	7	27	175	Eph	Y		N
+  6  	6  	21 	-21.87	Y	4	6 	265	Eph	Y		N
+  7  	7  	42 	-0.52 	Y	6	46	269	Eph	Y		N
+  9  	9  	46 	+0.46 	Y	7	65	329	Eph	Y		N
+  0  	16 	42 	-1.04 	Y	7	41	52 	Eph	Y		N
+  1  	23 	46 	-0.62 	Y	7	71	79 	Eph	Y		N
+  14 	27 	29 	-92.11	Y	4	15	104	Eph	Y		N
+  3  	30 	27 	-26.76	Y	4	18	254	Eph	Y		N
+  8  	133	36 	-3.78 	Y	6	41	142	Eph	Y		N
+  5  	138	33 	-1.09 	Y	4	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  13 	8  	0  	+0.00 	N	1	10	134	Eph	Y		N
+  4  	26 	24 	-70.29	N	4	15	40 	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:38:30 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 7
+  Latitude     : +37.41453080 deg
+  Longitude    : -121.97762550 deg
+  Altitude     : +00042.008 m
+  Pos Acc      : 30.18  26.56  26.01 m
+  Vel Acc      : 00.32 m/s
+  Time Acc     : 19   ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	45 	+6.42 	Y	7	27	175	Eph	Y		N
+  7  	7  	40 	-2.98 	Y	6	46	270	Eph	Y		N
+  9  	9  	45 	+1.48 	Y	7	65	330	Eph	Y		N
+  0  	16 	38 	+37.56	Y	5	41	52 	Eph	Y		N
+  1  	23 	45 	+0.38 	Y	6	70	79 	Eph	Y		N
+  14 	27 	38 	-60.41	Y	4	16	104	Eph	Y		N
+  8  	133	36 	+2.40 	Y	6	41	142	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	22 	-184.05	N	4	6 	265	Eph	Y		N
+  13 	8  	32 	+53.94	N	4	10	133	Eph	Y		N
+  4  	26 	31 	+72.99	N	4	15	40 	Eph	Y		N
+  3  	30 	33 	-96.41	N	4	18	254	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:38:59 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 12
+  Latitude     : +37.41687410 deg
+  Longitude    : -121.97404040 deg
+  Altitude     : -00017.619 m
+  Pos Acc      : 04.32  03.24  03.30 m
+  Vel Acc      : 00.19 m/s
+  Time Acc     : 2    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	33 	+2.72 	Y	4	27	175	Eph	Y		N
+  6  	6  	31 	+0.95 	Y	4	6 	265	Eph	Y		N
+  7  	7  	46 	+0.11 	Y	7	46	270	Eph	Y		N
+  13 	8  	30 	+8.81 	Y	4	10	133	Eph	Y		N
+  9  	9  	48 	-0.83 	Y	7	66	330	Eph	Y		N
+  0  	16 	43 	+0.46 	Y	7	41	52 	Eph	Y		N
+  1  	23 	47 	-0.26 	Y	7	70	80 	Eph	Y		N
+  4  	26 	37 	+2.35 	Y	6	14	40 	Eph	Y		N
+  14 	27 	26 	-4.29 	Y	4	16	103	Eph	Y		N
+  3  	30 	43 	-0.38 	Y	7	18	254	Eph	Y		N
+  8  	133	36 	-0.54 	Y	5	41	142	Eph	Y		N
+  5  	138	37 	+3.19 	Y	5	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:39:27 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.41878750 deg
+  Longitude    : -121.96643000 deg
+  Altitude     : -00024.357 m
+  Pos Acc      : 04.83  03.17  03.58 m
+  Vel Acc      : 00.23 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	34 	+0.63 	Y	6	27	175	Eph	Y		N
+  6  	6  	31 	-0.27 	Y	4	5 	265	Eph	Y		N
+  7  	7  	38 	+1.75 	Y	7	46	270	Eph	Y		N
+  13 	8  	25 	+2.04 	Y	4	11	133	Eph	Y		N
+  9  	9  	50 	-1.57 	Y	7	66	330	Eph	Y		N
+  0  	16 	41 	+0.10 	Y	7	40	52 	Eph	Y		N
+  1  	23 	46 	-0.77 	Y	7	70	80 	Eph	Y		N
+  4  	26 	30 	-0.39 	Y	4	14	40 	Eph	Y		N
+  14 	27 	30 	-1.98 	Y	4	16	103	Eph	Y		N
+  3  	30 	36 	+0.90 	Y	7	18	255	Eph	Y		N
+  11 	2  	24 	+0.00 	N	4	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  8  	133	38 	+0.00 	N	6	41	142	Eph	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	38 	+0.00 	N	6	44	156	Eph	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:39:56 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.41927110 deg
+  Longitude    : -121.95651750 deg
+  Altitude     : -00030.324 m
+  Pos Acc      : 06.00  04.39  04.52 m
+  Vel Acc      : 00.24 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	30 	+4.02 	Y	4	26	175	Eph	Y		N
+  6  	6  	30 	-3.74 	Y	5	5 	265	Eph	Y		N
+  7  	7  	41 	-0.77 	Y	6	46	270	Eph	Y		N
+  13 	8  	25 	-1.49 	Y	4	11	133	Eph	Y		N
+  9  	9  	50 	-2.43 	Y	6	66	330	Eph	Y		N
+  0  	16 	40 	+1.30 	Y	6	40	51 	Eph	Y		N
+  1  	23 	47 	-0.33 	Y	6	70	81 	Eph	Y		N
+  4  	26 	38 	+0.59 	Y	6	14	40 	Eph	Y		N
+  3  	30 	40 	-2.73 	Y	6	19	255	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  14 	27 	0  	+0.00 	N	1	16	103	Eph	Y		N
+  8  	133	39 	+0.00 	N	6	41	142	Eph	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	39 	+0.00 	N	6	44	156	Eph	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:40:25 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.41932990 deg
+  Longitude    : -121.94756420 deg
+  Altitude     : -00028.253 m
+  Pos Acc      : 04.59  03.36  03.42 m
+  Vel Acc      : 00.24 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	32 	-2.68 	Y	4	26	175	Eph	Y		Y
+  6  	6  	31 	+2.09 	Y	4	5 	264	Eph	Y		N
+  7  	7  	42 	-0.80 	Y	7	46	271	Eph	Y		Y
+  13 	8  	36 	-0.02 	Y	6	11	133	Eph	Y		Y
+  9  	9  	48 	-0.45 	Y	7	66	330	Eph	Y		Y
+  0  	16 	38 	-0.04 	Y	7	40	51 	Eph	Y		N
+  1  	23 	45 	+0.37 	Y	7	70	82 	Eph	Y		Y
+  4  	26 	38 	-1.44 	Y	6	14	40 	Eph	Y		Y
+  3  	30 	41 	-1.35 	Y	7	19	255	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	305	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  14 	27 	0  	+0.00 	N	1	16	103	Eph	Y		N
+  8  	133	34 	+0.00 	N	6	41	142	Eph	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	39 	+0.00 	N	6	44	156	Eph	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:40:54 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.42039080 deg
+  Longitude    : -121.93921550 deg
+  Altitude     : -00026.000 m
+  Pos Acc      : 09.78  07.27  07.17 m
+  Vel Acc      : 00.30 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	22 	+2.38 	Y	4	26	175	Eph	Y		Y
+  6  	6  	27 	+2.89 	Y	4	5 	264	Eph	Y		N
+  7  	7  	46 	-1.58 	Y	4	46	271	Eph	Y		Y
+  13 	8  	29 	+3.83 	Y	4	11	133	Eph	Y		Y
+  9  	9  	51 	+0.18 	Y	4	66	331	Eph	Y		Y
+  0  	16 	44 	+0.79 	Y	4	40	51 	Eph	Y		N
+  1  	23 	46 	+0.70 	Y	4	70	82 	Eph	Y		Y
+  4  	26 	30 	+4.06 	Y	4	14	40 	Eph	Y		Y
+  3  	30 	44 	+0.30 	Y	4	19	255	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	304	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  14 	27 	0  	+0.00 	N	1	16	103	Eph	Y		N
+  8  	133	31 	+0.00 	N	4	41	142	Eph	N		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	42 	+0.00 	N	4	44	156	Eph	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:41:23 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.42211510 deg
+  Longitude    : -121.93144300 deg
+  Altitude     : -00023.870 m
+  Pos Acc      : 04.65  04.26  03.40 m
+  Vel Acc      : 00.18 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	27 	+9.63 	Y	4	26	175	Eph	Y		N
+  7  	7  	46 	-0.34 	Y	7	46	271	Eph	Y		N
+  13 	8  	32 	+1.79 	Y	4	11	133	Eph	Y		N
+  9  	9  	51 	-0.78 	Y	7	66	331	Eph	Y		N
+  0  	16 	43 	-0.28 	Y	7	40	51 	Eph	Y		N
+  1  	23 	45 	+0.01 	Y	7	70	83 	Eph	Y		N
+  4  	26 	37 	-0.30 	Y	6	14	40 	Eph	Y		N
+  14 	27 	32 	-1.66 	Y	4	16	102	Eph	Y		N
+  3  	30 	41 	-0.23 	Y	7	19	255	Eph	Y		N
+  8  	133	35 	+0.26 	Y	4	41	142	Eph	Y		N
+  5  	138	43 	+1.39 	Y	6	44	156	Eph	Y		N
+  11 	2  	19 	+0.00 	N	3	0 	304	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	30 	+3.41 	N	4	5 	264	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:41:51 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.42366640 deg
+  Longitude    : -121.92225980 deg
+  Altitude     : -00026.837 m
+  Pos Acc      : 10.02  09.85  07.93 m
+  Vel Acc      : 00.31 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	36 	+0.64 	Y	4	26	175	Eph	Y		N
+  7  	7  	49 	-1.25 	Y	6	47	271	Eph	Y		N
+  13 	8  	34 	+0.32 	Y	4	11	132	Eph	Y		N
+  9  	9  	50 	-0.82 	Y	4	67	331	Eph	Y		N
+  0  	16 	41 	+0.32 	Y	4	40	51 	Eph	Y		N
+  1  	23 	47 	+0.34 	Y	4	70	83 	Eph	Y		N
+  4  	26 	31 	-0.49 	Y	4	13	40 	Eph	Y		N
+  3  	30 	43 	-0.11 	Y	4	19	255	Eph	Y		N
+  8  	133	37 	-0.80 	Y	4	41	142	Eph	Y		N
+  5  	138	41 	+3.73 	Y	4	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	304	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	22 	-0.19 	N	4	5 	264	Eph	Y		N
+  14 	27 	0  	+0.00 	N	1	16	102	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:42:20 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.42855810 deg
+  Longitude    : -121.91780610 deg
+  Altitude     : -00017.886 m
+  Pos Acc      : 05.28  04.93  04.40 m
+  Vel Acc      : 00.26 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	44 	-0.27 	Y	7	25	175	Eph	Y		N
+  7  	7  	37 	-1.33 	Y	7	47	272	Eph	Y		N
+  13 	8  	32 	+2.85 	Y	4	11	132	Eph	Y		N
+  9  	9  	46 	-0.34 	Y	7	67	331	Eph	Y		N
+  0  	16 	40 	+0.59 	Y	6	40	50 	Eph	Y		N
+  1  	23 	42 	+1.36 	Y	7	70	84 	Eph	Y		N
+  4  	26 	32 	+1.67 	Y	4	13	40 	Eph	Y		N
+  14 	27 	38 	-1.92 	Y	6	17	102	Eph	Y		N
+  3  	30 	38 	-1.65 	Y	6	19	256	Eph	Y		N
+  8  	133	36 	-0.03 	Y	6	41	142	Eph	Y		N
+  5  	138	37 	-0.48 	Y	6	44	156	Eph	Y		N
+  11 	2  	20 	+0.00 	N	3	0 	304	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	39 	+2.38 	N	6	5 	264	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:42:49 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.43586930 deg
+  Longitude    : -121.91924840 deg
+  Altitude     : -00025.447 m
+  Pos Acc      : 04.92  04.59  04.11 m
+  Vel Acc      : 00.34 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	+0.55 	Y	7	25	175	Eph	Y		N
+  7  	7  	40 	-1.36 	Y	6	47	272	Eph	Y		N
+  13 	8  	36 	-0.27 	Y	4	12	132	Eph	Y		N
+  9  	9  	45 	-0.14 	Y	7	67	332	Eph	Y		N
+  0  	16 	41 	-1.23 	Y	7	39	50 	Eph	Y		N
+  1  	23 	43 	-0.61 	Y	7	69	84 	Eph	Y		N
+  4  	26 	35 	-0.71 	Y	6	13	40 	Eph	Y		N
+  14 	27 	35 	-1.78 	Y	6	17	102	Eph	Y		N
+  3  	30 	39 	+0.60 	Y	4	19	256	Eph	Y		N
+  8  	133	30 	-2.16 	Y	4	41	142	Eph	Y		N
+  5  	138	30 	+2.06 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	304	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	23 	+6.88 	N	4	5 	264	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:43:18 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.44237510 deg
+  Longitude    : -121.92050210 deg
+  Altitude     : -00024.791 m
+  Pos Acc      : 04.41  04.12  03.64 m
+  Vel Acc      : 00.26 m/s
+  Time Acc     : 3    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	46 	-0.08 	Y	7	25	175	Eph	Y		N
+  7  	7  	43 	-1.39 	Y	7	47	272	Eph	Y		N
+  13 	8  	32 	+1.01 	Y	6	12	132	Eph	Y		Y
+  9  	9  	46 	+0.29 	Y	7	67	332	Eph	Y		Y
+  0  	16 	40 	+0.15 	Y	7	39	50 	Eph	Y		N
+  1  	23 	43 	-0.48 	Y	7	69	85 	Eph	Y		Y
+  4  	26 	32 	+2.23 	Y	6	13	40 	Eph	Y		N
+  14 	27 	38 	-2.64 	Y	7	17	102	Eph	Y		Y
+  3  	30 	41 	-0.09 	Y	7	20	256	Eph	Y		N
+  8  	133	30 	-2.50 	Y	4	41	142	Eph	Y		N
+  5  	138	30 	-1.66 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	33 	+2.54 	N	4	5 	263	Eph	Y		Y
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:43:47 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.44744470 deg
+  Longitude    : -121.92145110 deg
+  Altitude     : -00026.747 m
+  Pos Acc      : 07.59  07.08  06.07 m
+  Vel Acc      : 00.51 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	23 	-2.43 	Y	4	25	175	Eph	Y		Y
+  7  	7  	36 	+0.40 	Y	6	47	272	Eph	Y		N
+  13 	8  	28 	+5.18 	Y	4	12	132	Eph	Y		Y
+  9  	9  	23 	-3.28 	Y	4	68	332	Eph	Y		Y
+  0  	16 	39 	+1.84 	Y	7	39	50 	Eph	Y		N
+  1  	23 	38 	-0.59 	Y	7	69	86 	Eph	Y		Y
+  4  	26 	23 	-0.86 	Y	4	13	40 	Eph	Y		Y
+  14 	27 	20 	-3.34 	Y	4	17	102	Eph	Y		Y
+  3  	30 	42 	-0.53 	Y	7	20	256	Eph	Y		Y
+  8  	133	30 	-3.59 	Y	4	41	142	Eph	Y		N
+  5  	138	38 	-2.47 	Y	6	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	29 	+0.00 	N	4	4 	263	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:44:15 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.45470610 deg
+  Longitude    : -121.92288900 deg
+  Altitude     : -00028.095 m
+  Pos Acc      : 11.79  10.23  09.32 m
+  Vel Acc      : 01.30 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	17 	-6.15 	Y	4	25	175	Eph	Y		Y
+  7  	7  	36 	+0.85 	Y	4	47	273	Eph	Y		N
+  9  	9  	21 	-3.10 	Y	4	68	332	Eph	Y		Y
+  0  	16 	40 	+3.27 	Y	4	39	50 	Eph	Y		Y
+  1  	23 	36 	+1.61 	Y	4	69	86 	Eph	Y		Y
+  4  	26 	35 	+2.22 	Y	4	13	40 	Eph	Y		Y
+  14 	27 	22 	-10.70	Y	4	17	101	Eph	Y		Y
+  3  	30 	42 	-0.42 	Y	4	20	256	Eph	Y		Y
+  5  	138	38 	-1.60 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	22 	+0.00 	N	3	4 	263	Eph	Y		N
+  13 	8  	0  	+0.00 	N	1	12	132	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:44:44 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.46179720 deg
+  Longitude    : -121.92530550 deg
+  Altitude     : -00027.644 m
+  Pos Acc      : 08.82  08.23  07.07 m
+  Vel Acc      : 00.45 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	23 	-2.27 	Y	4	24	175	Eph	Y		Y
+  7  	7  	25 	+3.19 	Y	4	47	273	Eph	Y		N
+  13 	8  	31 	-0.88 	Y	4	12	132	Eph	Y		Y
+  9  	9  	34 	+0.54 	Y	6	68	332	Eph	Y		Y
+  0  	16 	39 	-1.00 	Y	6	39	50 	Eph	Y		N
+  1  	23 	35 	-4.14 	Y	6	69	87 	Eph	Y		N
+  4  	26 	39 	-0.58 	Y	6	12	40 	Eph	Y		N
+  14 	27 	32 	+3.64 	Y	6	17	101	Eph	Y		Y
+  3  	30 	40 	-0.81 	Y	7	20	256	Eph	Y		Y
+  8  	133	34 	-4.48 	Y	4	41	142	Eph	Y		N
+  5  	138	33 	+0.85 	Y	4	44	156	Eph	Y		Y
+  11 	2  	0  	+0.00 	N	1	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	21 	+0.00 	N	4	4 	263	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:45:13 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.46873460 deg
+  Longitude    : -121.92876940 deg
+  Altitude     : -00026.236 m
+  Pos Acc      : 08.88  08.29  07.20 m
+  Vel Acc      : 00.48 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	+2.49 	Y	4	24	175	Eph	Y		N
+  7  	7  	28 	-8.60 	Y	4	48	273	Eph	Y		N
+  13 	8  	32 	+0.11 	Y	4	12	131	Eph	Y		N
+  9  	9  	33 	+0.34 	Y	6	68	333	Eph	Y		N
+  0  	16 	38 	+0.21 	Y	7	39	49 	Eph	Y		N
+  1  	23 	33 	-4.77 	Y	6	69	87 	Eph	Y		N
+  4  	26 	40 	-0.86 	Y	6	12	40 	Eph	Y		N
+  14 	27 	33 	-1.40 	Y	6	17	101	Eph	Y		N
+  3  	30 	39 	-0.27 	Y	7	20	257	Eph	Y		N
+  8  	133	34 	-5.32 	Y	4	41	142	Eph	Y		N
+  5  	138	33 	+2.36 	Y	4	44	156	Eph	Y		N
+  11 	2  	19 	+0.00 	N	3	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	23 	+0.00 	N	4	4 	263	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:45:42 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 11
+  Latitude     : +37.47618840 deg
+  Longitude    : -121.93244370 deg
+  Altitude     : -00026.070 m
+  Pos Acc      : 09.57  08.93  07.79 m
+  Vel Acc      : 00.49 m/s
+  Time Acc     : 4    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	24 	-3.07 	Y	4	24	175	Eph	Y		N
+  7  	7  	30 	-6.09 	Y	6	48	273	Eph	Y		N
+  13 	8  	34 	-3.24 	Y	4	12	131	Eph	Y		N
+  9  	9  	32 	+0.85 	Y	6	68	333	Eph	Y		N
+  0  	16 	36 	+0.37 	Y	6	38	49 	Eph	Y		N
+  1  	23 	33 	-4.54 	Y	6	69	88 	Eph	Y		N
+  4  	26 	39 	-3.54 	Y	4	12	40 	Eph	Y		N
+  14 	27 	34 	-4.11 	Y	4	17	101	Eph	Y		N
+  3  	30 	40 	-0.16 	Y	6	20	257	Eph	Y		N
+  8  	133	35 	-4.29 	Y	4	41	142	Eph	Y		N
+  5  	138	35 	+2.17 	Y	4	44	156	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	303	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	26 	+0.00 	N	4	4 	263	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:46:11 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.48351440 deg
+  Longitude    : -121.93663380 deg
+  Altitude     : -00025.975 m
+  Pos Acc      : 11.43  07.53  09.36 m
+  Vel Acc      : 00.80 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	+1.08 	Y	4	24	175	Eph	Y		N
+  7  	7  	39 	-1.47 	Y	4	48	274	Eph	Y		N
+  13 	8  	30 	+3.00 	Y	4	13	131	Eph	Y		N
+  9  	9  	23 	-0.29 	Y	4	69	333	Eph	Y		N
+  0  	16 	35 	-1.35 	Y	4	38	49 	Eph	Y		N
+  1  	23 	29 	-3.47 	Y	4	68	88 	Eph	Y		N
+  14 	27 	30 	-5.19 	Y	4	17	101	Eph	Y		N
+  3  	30 	27 	-1.22 	Y	4	20	257	Eph	Y		N
+  5  	138	29 	-0.71 	Y	4	44	156	Eph	Y		N
+  11 	2  	12 	+0.00 	N	3	0 	302	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	22 	+0.00 	N	4	4 	262	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	12	40 	Eph	Y		N
+  8  	133	33 	+0.00 	N	4	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:46:40 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.48910120 deg
+  Longitude    : -121.94370110 deg
+  Altitude     : -00024.524 m
+  Pos Acc      : 12.81  10.61  10.55 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	38 	-1.28 	Y	6	23	175	Eph	Y		N
+  7  	7  	39 	-0.98 	Y	7	48	274	Eph	Y		N
+  13 	8  	34 	-1.62 	Y	6	13	131	Eph	Y		N
+  9  	9  	34 	+1.58 	Y	6	69	333	Eph	Y		N
+  0  	16 	26 	+8.18 	Y	4	38	49 	Eph	Y		N
+  1  	23 	35 	-3.68 	Y	6	68	89 	Eph	Y		N
+  4  	26 	21 	-3.44 	Y	4	12	40 	Eph	Y		N
+  14 	27 	30 	-1.46 	Y	4	18	100	Eph	Y		N
+  3  	30 	35 	-0.97 	Y	4	21	257	Eph	Y		N
+  11 	2  	13 	+0.00 	N	3	0 	302	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	16 	+0.00 	N	4	4 	262	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:47:08 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.49446370 deg
+  Longitude    : -121.95067750 deg
+  Altitude     : -00027.422 m
+  Pos Acc      : 13.29  11.20  10.73 m
+  Vel Acc      : 00.47 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	37 	+1.44 	Y	6	23	175	Eph	Y		N
+  7  	7  	39 	-3.24 	Y	5	48	274	Eph	Y		N
+  13 	8  	30 	+1.67 	Y	5	13	131	Eph	Y		N
+  9  	9  	33 	+3.93 	Y	6	69	334	Eph	Y		N
+  0  	16 	27 	+1.78 	Y	4	38	49 	Eph	Y		N
+  1  	23 	34 	-3.63 	Y	6	68	89 	Eph	Y		N
+  4  	26 	22 	-14.18	Y	4	12	40 	Eph	Y		N
+  14 	27 	31 	-2.25 	Y	4	18	100	Eph	Y		N
+  3  	30 	37 	+1.91 	Y	6	21	257	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	302	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	16 	+0.00 	N	4	4 	262	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:47:37 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.49988330 deg
+  Longitude    : -121.95774570 deg
+  Altitude     : -00023.798 m
+  Pos Acc      : 12.51  10.54  10.12 m
+  Vel Acc      : 00.51 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	37 	-1.12 	Y	6	23	175	Eph	Y		N
+  7  	7  	39 	-1.03 	Y	7	48	274	Eph	Y		N
+  13 	8  	29 	+1.42 	Y	4	13	131	Eph	Y		N
+  9  	9  	32 	+1.90 	Y	5	69	334	Eph	Y		N
+  0  	16 	24 	+9.37 	Y	4	38	49 	Eph	Y		N
+  1  	23 	33 	-2.61 	Y	5	68	90 	Eph	Y		N
+  4  	26 	22 	-12.19	Y	4	11	40 	Eph	Y		N
+  14 	27 	31 	-4.46 	Y	6	18	100	Eph	Y		N
+  3  	30 	39 	+2.68 	Y	6	21	257	Eph	Y		N
+  11 	2  	0  	+0.00 	N	1	0 	302	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	20 	+0.00 	N	4	4 	262	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:48:06 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.50571580 deg
+  Longitude    : -121.96524080 deg
+  Altitude     : -00023.187 m
+  Pos Acc      : 13.74  11.58  11.20 m
+  Vel Acc      : 00.60 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	35 	-2.67 	Y	6	23	175	Eph	Y		N
+  7  	7  	37 	-0.77 	Y	7	48	275	Eph	Y		N
+  13 	8  	18 	+1.83 	Y	4	13	130	Eph	Y		N
+  9  	9  	35 	+0.38 	Y	6	69	334	Eph	Y		N
+  0  	16 	30 	-4.26 	Y	4	38	49 	Eph	Y		N
+  1  	23 	33 	-5.94 	Y	5	68	90 	Eph	Y		N
+  4  	26 	28 	-0.83 	Y	4	11	40 	Eph	Y		N
+  14 	27 	31 	-0.89 	Y	4	18	100	Eph	Y		N
+  3  	30 	36 	+0.37 	Y	6	21	257	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	26 	+0.00 	N	4	3 	262	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	29 	-9.97 	N	3	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:48:35 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.51158650 deg
+  Longitude    : -121.97250090 deg
+  Altitude     : -00024.249 m
+  Pos Acc      : 13.65  11.51  11.02 m
+  Vel Acc      : 00.69 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	33 	-0.57 	Y	6	23	175	Eph	Y		N
+  7  	7  	37 	-1.52 	Y	6	49	275	Eph	Y		N
+  13 	8  	16 	-9.84 	Y	4	13	130	Eph	Y		N
+  9  	9  	35 	+0.90 	Y	6	70	335	Eph	Y		N
+  0  	16 	30 	+2.91 	Y	4	37	48 	Eph	Y		N
+  1  	23 	34 	-2.84 	Y	6	68	91 	Eph	Y		N
+  4  	26 	22 	-13.98	Y	4	11	39 	Eph	Y		N
+  14 	27 	30 	+1.55 	Y	4	18	100	Eph	Y		N
+  3  	30 	36 	-0.84 	Y	5	21	258	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	18 	+0.00 	N	4	3 	261	Eph	Y		N
+  8  	133	29 	+0.00 	N	4	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:49:03 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 8
+  Latitude     : +37.51736630 deg
+  Longitude    : -121.97965380 deg
+  Altitude     : -00025.521 m
+  Pos Acc      : 14.79  11.91  12.09 m
+  Vel Acc      : 00.67 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	35 	-0.33 	Y	6	22	175	Eph	Y		N
+  7  	7  	37 	-1.43 	Y	6	49	275	Eph	Y		N
+  9  	9  	36 	-0.28 	Y	6	70	335	Eph	Y		N
+  0  	16 	30 	+1.75 	Y	4	37	48 	Eph	Y		N
+  1  	23 	33 	-1.00 	Y	6	68	91 	Eph	Y		N
+  4  	26 	22 	-17.76	Y	4	11	39 	Eph	Y		N
+  14 	27 	31 	+0.21 	Y	4	18	99 	Eph	Y		N
+  3  	30 	37 	-0.41 	Y	6	21	258	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	31 	+0.00 	N	4	3 	261	Eph	Y		N
+  13 	8  	14 	-16.51	N	3	13	130	Eph	Y		N
+  8  	133	29 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	Eph	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:49:32 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.52258590 deg
+  Longitude    : -121.98769890 deg
+  Altitude     : -00018.740 m
+  Pos Acc      : 14.31  14.76  12.12 m
+  Vel Acc      : 01.12 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	-3.36 	Y	4	22	175	Eph	Y		N
+  13 	8  	28 	-0.17 	Y	4	14	130	Eph	Y		N
+  9  	9  	21 	-6.56 	Y	4	70	335	Eph	Y		N
+  0  	16 	23 	-0.69 	Y	4	37	48 	Eph	Y		N
+  1  	23 	18 	-3.83 	Y	4	67	92 	Eph	Y		N
+  4  	26 	21 	-3.41 	Y	4	11	39 	Eph	Y		N
+  14 	27 	26 	-3.22 	Y	4	18	99 	Eph	Y		N
+  3  	30 	16 	+6.09 	Y	4	22	258	Eph	Y		N
+  5  	138	27 	+0.28 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	15 	+0.00 	N	4	3 	261	Eph	Y		N
+  7  	7  	0  	+0.00 	N	1	49	275	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:50:01 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.52692030 deg
+  Longitude    : -121.99645000 deg
+  Altitude     : -00022.821 m
+  Pos Acc      : 13.29  12.43  11.06 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	36 	-2.46 	Y	4	22	175	Eph	Y		N
+  7  	7  	29 	+0.02 	Y	4	49	276	Eph	Y		N
+  13 	8  	29 	+4.23 	Y	4	14	130	Eph	Y		N
+  9  	9  	41 	-1.03 	Y	7	70	335	Eph	Y		N
+  0  	16 	36 	+0.72 	Y	4	37	48 	Eph	Y		N
+  1  	23 	31 	+2.43 	Y	4	67	92 	Eph	Y		N
+  4  	26 	17 	-7.17 	Y	4	11	39 	Eph	Y		N
+  14 	27 	33 	-2.89 	Y	4	18	99 	Eph	Y		N
+  3  	30 	31 	+0.87 	Y	4	22	258	Eph	Y		N
+  5  	138	34 	+1.72 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	21 	+0.00 	N	4	3 	261	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:50:29 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.53131640 deg
+  Longitude    : -122.00482340 deg
+  Altitude     : -00021.757 m
+  Pos Acc      : 11.97  10.24  09.72 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	37 	-1.28 	Y	6	22	175	Eph	Y		N
+  7  	7  	31 	-3.47 	Y	4	49	276	Eph	Y		N
+  13 	8  	33 	-0.09 	Y	4	14	130	Eph	Y		N
+  9  	9  	41 	-0.78 	Y	6	70	336	Eph	Y		N
+  0  	16 	39 	+1.21 	Y	6	37	48 	Eph	Y		N
+  1  	23 	21 	-2.46 	Y	4	67	93 	Eph	Y		N
+  4  	26 	32 	-1.99 	Y	4	10	39 	Eph	Y		N
+  14 	27 	34 	-1.24 	Y	4	18	99 	Eph	Y		N
+  3  	30 	34 	-0.61 	Y	6	22	258	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	18 	+0.00 	N	4	3 	261	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:50:58 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.53564050 deg
+  Longitude    : -122.01279860 deg
+  Altitude     : -00020.331 m
+  Pos Acc      : 11.52  09.85  09.42 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	37 	-1.25 	Y	6	21	175	Eph	Y		N
+  7  	7  	30 	-2.22 	Y	4	49	276	Eph	Y		N
+  13 	8  	31 	-0.39 	Y	5	14	129	Eph	Y		N
+  9  	9  	41 	-0.71 	Y	6	71	336	Eph	Y		N
+  0  	16 	40 	-0.39 	Y	6	37	48 	Eph	Y		N
+  1  	23 	24 	-1.16 	Y	4	67	93 	Eph	Y		N
+  4  	26 	27 	-1.02 	Y	4	10	39 	Eph	Y		N
+  14 	27 	34 	-0.88 	Y	6	18	99 	Eph	Y		N
+  3  	30 	35 	-0.84 	Y	4	22	258	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	0  	+0.00 	N	1	3 	260	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:51:27 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 8
+  Latitude     : +37.54140420 deg
+  Longitude    : -122.01878690 deg
+  Altitude     : -00024.815 m
+  Pos Acc      : 16.44  09.33  12.55 m
+  Vel Acc      : 00.72 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	24 	-6.67 	Y	4	21	175	Eph	Y		N
+  7  	7  	30 	-7.31 	Y	4	49	276	Eph	Y		N
+  13 	8  	30 	+1.34 	Y	4	14	129	Eph	Y		N
+  9  	9  	38 	+0.24 	Y	4	71	336	Eph	Y		N
+  0  	16 	32 	+3.16 	Y	4	36	48 	Eph	Y		N
+  1  	23 	34 	-1.59 	Y	5	67	94 	Eph	Y		N
+  14 	27 	30 	+1.51 	Y	4	19	98 	Eph	Y		N
+  3  	30 	34 	-0.04 	Y	6	22	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	0  	+0.00 	N	1	3 	260	Eph	Y		N
+  4  	26 	12 	-50.86	N	4	10	39 	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	31 	+0.00 	N	3	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:51:56 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.54746560 deg
+  Longitude    : -122.02330220 deg
+  Altitude     : -00025.758 m
+  Pos Acc      : 17.73  15.16  13.59 m
+  Vel Acc      : 00.80 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	33 	-1.55 	Y	4	21	175	Eph	Y		N
+  7  	7  	40 	-0.86 	Y	4	50	277	Eph	Y		N
+  13 	8  	29 	-2.17 	Y	4	14	129	Eph	Y		N
+  9  	9  	36 	+0.81 	Y	4	71	337	Eph	Y		N
+  0  	16 	23 	-1.83 	Y	4	36	47 	Eph	Y		N
+  1  	23 	35 	-0.44 	Y	4	67	94 	Eph	Y		N
+  4  	26 	23 	+4.05 	Y	4	10	39 	Eph	Y		N
+  14 	27 	19 	-0.86 	Y	4	19	98 	Eph	Y		N
+  3  	30 	35 	+2.20 	Y	4	22	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	14 	+0.00 	N	3	3 	260	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	35 	+0.00 	N	4	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:52:24 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.55289800 deg
+  Longitude    : -122.02726220 deg
+  Altitude     : -00022.436 m
+  Pos Acc      : 15.18  12.98  11.97 m
+  Vel Acc      : 00.75 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	25 	-3.07 	Y	4	21	175	Eph	Y		N
+  7  	7  	30 	-2.57 	Y	4	50	277	Eph	Y		N
+  13 	8  	31 	+0.15 	Y	6	14	129	Eph	Y		N
+  9  	9  	37 	-0.52 	Y	6	71	337	Eph	Y		N
+  0  	16 	31 	-3.35 	Y	4	36	47 	Eph	Y		N
+  1  	23 	32 	-3.78 	Y	5	66	95 	Eph	Y		N
+  4  	26 	21 	-1.72 	Y	4	10	39 	Eph	Y		N
+  14 	27 	19 	-0.59 	Y	4	19	98 	Eph	Y		N
+  3  	30 	26 	-0.12 	Y	4	22	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	17 	+0.00 	N	4	2 	260	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	32 	+0.00 	N	3	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:52:53 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.55590290 deg
+  Longitude    : -122.03000420 deg
+  Altitude     : -00021.919 m
+  Pos Acc      : 14.64  12.52  11.62 m
+  Vel Acc      : 00.56 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	32 	+0.06 	Y	4	20	175	Eph	Y		N
+  7  	7  	32 	+0.68 	Y	4	50	277	Eph	Y		N
+  13 	8  	30 	+3.31 	Y	4	15	129	Eph	Y		N
+  9  	9  	37 	-0.84 	Y	6	72	337	Eph	Y		N
+  0  	16 	32 	+0.54 	Y	6	36	47 	Eph	Y		N
+  1  	23 	30 	-0.48 	Y	4	66	95 	Eph	Y		N
+  4  	26 	22 	-12.28	Y	4	9 	39 	Eph	Y		N
+  14 	27 	19 	-3.60 	Y	4	19	98 	Eph	Y		N
+  3  	30 	35 	-2.77 	Y	6	23	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	14 	+0.00 	N	4	2 	260	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:53:22 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.55815240 deg
+  Longitude    : -122.03238940 deg
+  Altitude     : -00021.083 m
+  Pos Acc      : 14.61  12.49  11.47 m
+  Vel Acc      : 00.78 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	29 	-1.45 	Y	4	20	175	Eph	Y		N
+  7  	7  	32 	+0.21 	Y	4	50	278	Eph	Y		N
+  13 	8  	27 	-2.90 	Y	4	15	129	Eph	Y		N
+  9  	9  	38 	-1.17 	Y	6	72	338	Eph	Y		N
+  0  	16 	38 	-1.58 	Y	6	36	47 	Eph	Y		N
+  1  	23 	33 	-3.47 	Y	5	66	96 	Eph	Y		N
+  4  	26 	19 	-13.65	Y	4	9 	39 	Eph	Y		N
+  14 	27 	22 	-3.07 	Y	4	19	98 	Eph	Y		N
+  3  	30 	33 	+0.63 	Y	4	23	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	20 	+0.00 	N	4	2 	260	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:53:51 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56018530 deg
+  Longitude    : -122.03456850 deg
+  Altitude     : -00017.119 m
+  Pos Acc      : 17.04  14.78  12.83 m
+  Vel Acc      : 01.02 m/s
+  Time Acc     : 9    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	23 	+1.38 	Y	4	20	175	Eph	Y		N
+  7  	7  	33 	+1.55 	Y	4	50	278	Eph	Y		N
+  13 	8  	29 	+2.44 	Y	4	15	128	Eph	Y		N
+  9  	9  	39 	-0.27 	Y	6	72	338	Eph	Y		N
+  0  	16 	31 	-0.70 	Y	4	35	47 	Eph	Y		N
+  1  	23 	30 	-5.11 	Y	4	66	96 	Eph	Y		N
+  4  	26 	20 	-9.49 	Y	4	9 	39 	Eph	Y		N
+  14 	27 	21 	-1.79 	Y	4	19	97 	Eph	Y		N
+  3  	30 	28 	-4.94 	Y	4	23	259	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	14 	+0.00 	N	4	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:54:19 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56341180 deg
+  Longitude    : -122.03696260 deg
+  Altitude     : -00016.446 m
+  Pos Acc      : 13.92  12.08  11.01 m
+  Vel Acc      : 00.75 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	+4.02 	Y	4	20	174	Eph	Y		N
+  7  	7  	44 	+0.42 	Y	4	50	278	Eph	Y		N
+  13 	8  	22 	-0.51 	Y	4	15	128	Eph	Y		N
+  9  	9  	35 	-4.43 	Y	6	72	338	Eph	Y		N
+  0  	16 	40 	+2.87 	Y	6	35	47 	Eph	Y		N
+  1  	23 	28 	-7.49 	Y	4	66	97 	Eph	Y		N
+  4  	26 	16 	-9.66 	Y	4	9 	39 	Eph	Y		N
+  14 	27 	30 	-1.44 	Y	4	19	97 	Eph	Y		N
+  3  	30 	35 	+2.92 	Y	4	23	260	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	7  	+0.00 	N	3	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	27 	+0.00 	N	3	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:54:48 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56423030 deg
+  Longitude    : -122.03712570 deg
+  Altitude     : -00020.579 m
+  Pos Acc      : 09.27  08.04  07.12 m
+  Vel Acc      : 00.37 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	40 	+0.97 	Y	6	20	174	Eph	Y		N
+  7  	7  	37 	-2.32 	Y	4	50	278	Eph	Y		N
+  13 	8  	27 	+4.88 	Y	4	15	128	Eph	Y		N
+  9  	9  	40 	+4.75 	Y	6	72	339	Eph	Y		N
+  0  	16 	30 	-4.48 	Y	4	35	47 	Eph	Y		N
+  1  	23 	45 	-0.02 	Y	6	66	97 	Eph	Y		N
+  4  	26 	35 	-1.29 	Y	4	9 	39 	Eph	Y		N
+  14 	27 	37 	-0.36 	Y	4	19	97 	Eph	Y		N
+  3  	30 	39 	+1.28 	Y	6	23	260	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	19 	+0.00 	N	4	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	41 	+0.00 	N	4	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:55:17 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56528830 deg
+  Longitude    : -122.03702490 deg
+  Altitude     : -00021.112 m
+  Pos Acc      : 11.28  09.79  09.24 m
+  Vel Acc      : 00.78 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	+1.53 	Y	4	19	174	Eph	Y		N
+  7  	7  	45 	-1.17 	Y	6	51	279	Eph	Y		N
+  13 	8  	35 	+0.08 	Y	6	15	128	Eph	Y		N
+  9  	9  	39 	-0.47 	Y	5	73	339	Eph	Y		N
+  0  	16 	38 	-0.48 	Y	6	35	46 	Eph	Y		N
+  1  	23 	34 	-1.15 	Y	4	65	98 	Eph	Y		N
+  4  	26 	29 	+0.95 	Y	4	9 	39 	Eph	Y		N
+  14 	27 	31 	-1.74 	Y	4	19	97 	Eph	Y		N
+  3  	30 	37 	+1.99 	Y	4	23	260	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	24 	+0.00 	N	4	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	0  	+0.00 	N	1	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:55:45 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56619780 deg
+  Longitude    : -122.03633330 deg
+  Altitude     : -00023.525 m
+  Pos Acc      : 10.77  09.34  08.44 m
+  Vel Acc      : 00.64 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	34 	-3.25 	Y	4	19	174	Eph	Y		N
+  7  	7  	43 	-0.53 	Y	7	51	279	Eph	Y		Y
+  13 	8  	28 	+4.93 	Y	4	15	128	Eph	Y		N
+  9  	9  	36 	-1.65 	Y	5	73	339	Eph	Y		N
+  0  	16 	34 	-6.17 	Y	4	35	46 	Eph	Y		N
+  1  	23 	37 	-1.54 	Y	6	65	98 	Eph	Y		N
+  4  	26 	22 	-0.07 	Y	4	8 	39 	Eph	Y		Y
+  14 	27 	31 	+2.73 	Y	4	19	97 	Eph	Y		N
+  3  	30 	38 	-1.79 	Y	6	23	260	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	14 	+0.00 	N	3	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	38 	+0.00 	N	6	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:56:14 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56740200 deg
+  Longitude    : -122.03539380 deg
+  Altitude     : -00021.576 m
+  Pos Acc      : 13.05  11.51  09.88 m
+  Vel Acc      : 00.73 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	29 	-3.05 	Y	4	19	174	Eph	Y		N
+  7  	7  	44 	-0.99 	Y	7	51	279	Eph	Y		Y
+  13 	8  	26 	+2.95 	Y	4	16	128	Eph	Y		N
+  9  	9  	40 	-0.73 	Y	6	73	340	Eph	Y		N
+  0  	16 	29 	-0.43 	Y	4	34	46 	Eph	Y		N
+  1  	23 	32 	+0.24 	Y	4	65	99 	Eph	Y		N
+  4  	26 	23 	+1.04 	Y	4	8 	39 	Eph	Y		Y
+  14 	27 	34 	+6.13 	Y	4	20	96 	Eph	Y		Y
+  3  	30 	40 	-1.89 	Y	6	24	260	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	8  	+0.00 	N	4	2 	259	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	35 	+0.00 	N	5	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:56:43 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.56797140 deg
+  Longitude    : -122.03486390 deg
+  Altitude     : -00020.960 m
+  Pos Acc      : 10.89  10.36  08.19 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	28 	-10.61	Y	4	19	174	Eph	Y		N
+  7  	7  	43 	+0.14 	Y	7	51	279	Eph	Y		Y
+  13 	8  	31 	-1.06 	Y	6	16	128	Eph	Y		N
+  9  	9  	39 	-2.31 	Y	7	73	340	Eph	Y		Y
+  0  	16 	30 	-2.38 	Y	4	34	46 	Eph	Y		N
+  1  	23 	29 	+2.03 	Y	4	65	99 	Eph	Y		N
+  4  	26 	32 	+2.88 	Y	4	8 	39 	Eph	Y		Y
+  14 	27 	35 	+3.48 	Y	6	20	96 	Eph	Y		Y
+  3  	30 	40 	-1.47 	Y	7	24	260	Eph	Y		Y
+  5  	138	37 	-0.74 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	0  	+0.00 	N	1	2 	258	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:57:12 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.56849820 deg
+  Longitude    : -122.03461910 deg
+  Altitude     : -00045.908 m
+  Pos Acc      : 14.85  10.43  11.25 m
+  Vel Acc      : 00.58 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	33 	+2.37 	Y	6	19	174	Eph	Y		N
+  7  	7  	45 	-1.86 	Y	7	51	280	Eph	Y		N
+  13 	8  	33 	+11.75	Y	4	16	127	Eph	Y		N
+  9  	9  	41 	-1.45 	Y	7	73	340	Eph	Y		N
+  0  	16 	24 	-17.74	Y	4	34	46 	Eph	Y		N
+  1  	23 	34 	+9.05 	Y	6	65	99 	Eph	Y		N
+  14 	27 	32 	-1.47 	Y	4	20	96 	Eph	Y		N
+  3  	30 	34 	-0.29 	Y	4	24	261	Eph	Y		N
+  5  	138	36 	+19.05	Y	6	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	13 	+0.00 	N	4	1 	258	Eph	Y		N
+  4  	26 	27 	-26.39	N	4	8 	39 	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:57:40 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.56999910 deg
+  Longitude    : -122.03317490 deg
+  Altitude     : -00030.737 m
+  Pos Acc      : 11.88  11.49  09.05 m
+  Vel Acc      : 00.77 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	+3.22 	Y	4	18	174	Eph	Y		N
+  7  	7  	44 	-0.85 	Y	7	51	280	Eph	Y		N
+  13 	8  	21 	+2.82 	Y	4	16	127	Eph	Y		N
+  9  	9  	41 	-0.87 	Y	7	74	341	Eph	Y		N
+  0  	16 	29 	-3.87 	Y	4	34	46 	Eph	Y		N
+  1  	23 	37 	+1.82 	Y	6	65	100	Eph	Y		N
+  4  	26 	25 	-4.28 	Y	4	8 	39 	Eph	Y		N
+  14 	27 	23 	-0.64 	Y	4	20	96 	Eph	Y		N
+  3  	30 	37 	+0.09 	Y	6	24	261	Eph	Y		N
+  5  	138	36 	+7.12 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	8  	+0.00 	N	4	1 	258	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:58:09 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57013250 deg
+  Longitude    : -122.03300930 deg
+  Altitude     : -00024.618 m
+  Pos Acc      : 11.61  11.23  08.57 m
+  Vel Acc      : 00.45 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	+0.96 	Y	4	18	174	Eph	Y		N
+  7  	7  	45 	+0.08 	Y	7	51	280	Eph	Y		N
+  13 	8  	20 	-15.10	Y	4	16	127	Eph	Y		N
+  9  	9  	39 	-0.15 	Y	7	74	341	Eph	Y		N
+  0  	16 	30 	+0.84 	Y	4	34	46 	Eph	Y		N
+  1  	23 	34 	+3.09 	Y	7	64	100	Eph	Y		N
+  4  	26 	23 	-1.80 	Y	4	7 	39 	Eph	Y		N
+  14 	27 	27 	+6.20 	Y	4	20	95 	Eph	Y		N
+  3  	30 	36 	-2.00 	Y	7	24	261	Eph	Y		N
+  5  	138	33 	-4.98 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	18 	+0.00 	N	4	1 	258	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:58:38 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57009540 deg
+  Longitude    : -122.03302560 deg
+  Altitude     : -00021.865 m
+  Pos Acc      : 10.50  10.16  07.93 m
+  Vel Acc      : 00.49 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	29 	-3.66 	Y	4	18	174	Eph	Y		N
+  7  	7  	45 	-0.84 	Y	7	51	281	Eph	Y		N
+  13 	8  	21 	+7.10 	Y	4	16	127	Eph	Y		N
+  9  	9  	40 	-2.68 	Y	7	74	341	Eph	Y		N
+  0  	16 	30 	+3.70 	Y	6	34	46 	Eph	Y		N
+  1  	23 	36 	+0.64 	Y	7	64	101	Eph	Y		N
+  4  	26 	28 	-10.12	Y	4	7 	39 	Eph	Y		N
+  14 	27 	26 	-1.56 	Y	4	20	95 	Eph	Y		N
+  3  	30 	34 	+1.87 	Y	7	24	261	Eph	Y		N
+  5  	138	34 	-10.86	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	0  	+0.00 	N	1	1 	258	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:59:06 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57050120 deg
+  Longitude    : -122.03269120 deg
+  Altitude     : -00020.051 m
+  Pos Acc      : 10.74  10.39  08.37 m
+  Vel Acc      : 00.66 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	-3.99 	Y	4	18	174	Eph	Y		N
+  7  	7  	45 	-1.36 	Y	7	52	281	Eph	Y		N
+  13 	8  	34 	-0.20 	Y	4	17	127	Eph	Y		N
+  9  	9  	42 	-1.29 	Y	7	74	342	Eph	Y		N
+  0  	16 	32 	+4.43 	Y	4	33	46 	Eph	Y		N
+  1  	23 	40 	-0.22 	Y	6	64	101	Eph	Y		N
+  4  	26 	24 	+0.78 	Y	4	7 	39 	Eph	Y		N
+  14 	27 	25 	+1.72 	Y	4	20	95 	Eph	Y		N
+  3  	30 	38 	-0.23 	Y	6	25	261	Eph	Y		N
+  5  	138	30 	-3.04 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	11 	+0.00 	N	3	1 	258	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 13:59:35 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57347440 deg
+  Longitude    : -122.02988680 deg
+  Altitude     : -00020.596 m
+  Pos Acc      : 10.44  10.10  08.22 m
+  Vel Acc      : 00.54 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	-5.79 	Y	4	18	174	Eph	Y		N
+  7  	7  	43 	-1.34 	Y	7	52	281	Eph	Y		N
+  13 	8  	26 	+0.96 	Y	4	17	127	Eph	Y		N
+  9  	9  	42 	-0.63 	Y	7	74	342	Eph	Y		N
+  0  	16 	35 	+1.63 	Y	6	33	45 	Eph	Y		N
+  1  	23 	37 	-1.69 	Y	6	64	101	Eph	Y		N
+  4  	26 	27 	+10.23	Y	4	7 	39 	Eph	Y		N
+  14 	27 	28 	+1.88 	Y	4	20	95 	Eph	Y		N
+  3  	30 	34 	+1.09 	Y	4	25	262	Eph	Y		N
+  5  	138	33 	-3.18 	Y	4	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	9  	+0.00 	N	4	1 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:00:04 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57593070 deg
+  Longitude    : -122.02773360 deg
+  Altitude     : -00023.767 m
+  Pos Acc      : 10.20  09.87  08.08 m
+  Vel Acc      : 00.57 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	27 	-1.19 	Y	4	17	174	Eph	Y		N
+  7  	7  	43 	-0.55 	Y	7	52	282	Eph	Y		Y
+  13 	8  	25 	+0.43 	Y	4	17	126	Eph	Y		N
+  9  	9  	42 	-0.02 	Y	7	75	343	Eph	Y		Y
+  0  	16 	32 	+2.98 	Y	4	33	45 	Eph	Y		Y
+  1  	23 	36 	+0.30 	Y	6	64	102	Eph	Y		N
+  4  	26 	23 	+0.21 	Y	4	7 	39 	Eph	Y		Y
+  14 	27 	24 	-1.11 	Y	4	20	95 	Eph	Y		Y
+  3  	30 	35 	+1.81 	Y	4	25	262	Eph	Y		Y
+  5  	138	37 	-1.91 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	14 	+0.00 	N	4	1 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:00:33 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57601590 deg
+  Longitude    : -122.02766280 deg
+  Altitude     : -00021.535 m
+  Pos Acc      : 08.61  08.33  06.77 m
+  Vel Acc      : 00.56 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	20 	-32.27	Y	4	17	174	Eph	Y		N
+  7  	7  	45 	-1.37 	Y	7	52	282	Eph	Y		Y
+  13 	8  	21 	-4.32 	Y	4	17	126	Eph	Y		Y
+  9  	9  	42 	-0.93 	Y	7	75	343	Eph	Y		Y
+  0  	16 	35 	+2.44 	Y	7	33	45 	Eph	Y		Y
+  1  	23 	39 	-2.22 	Y	7	64	102	Eph	Y		Y
+  4  	26 	26 	+8.25 	Y	4	7 	39 	Eph	Y		Y
+  14 	27 	20 	-9.64 	Y	4	21	94 	Eph	Y		Y
+  3  	30 	37 	-0.73 	Y	7	25	262	Eph	Y		Y
+  5  	138	30 	-0.50 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	0  	+0.00 	N	1	1 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:01:01 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.57844500 deg
+  Longitude    : -122.02548480 deg
+  Altitude     : -00017.075 m
+  Pos Acc      : 09.75  09.43  07.55 m
+  Vel Acc      : 00.54 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	21 	-7.61 	Y	4	17	174	Eph	Y		N
+  7  	7  	44 	-1.55 	Y	7	52	282	Eph	Y		Y
+  13 	8  	35 	+1.13 	Y	4	17	126	Eph	Y		Y
+  9  	9  	41 	-0.28 	Y	7	75	343	Eph	Y		Y
+  0  	16 	35 	+1.78 	Y	6	33	45 	Eph	Y		Y
+  1  	23 	38 	+0.51 	Y	7	63	103	Eph	Y		Y
+  4  	26 	19 	-12.82	Y	4	6 	39 	Eph	Y		Y
+  14 	27 	30 	+2.37 	Y	4	21	94 	Eph	Y		Y
+  3  	30 	38 	+0.22 	Y	7	25	262	Eph	Y		Y
+  5  	138	32 	+0.43 	Y	4	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	22 	+0.00 	N	4	0 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:01:30 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 10
+  Latitude     : +37.58213180 deg
+  Longitude    : -122.02334590 deg
+  Altitude     : -00022.063 m
+  Pos Acc      : 10.65  10.30  08.42 m
+  Vel Acc      : 00.58 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	33 	-1.39 	Y	4	17	174	Eph	Y		N
+  7  	7  	42 	-0.54 	Y	4	52	282	Eph	Y		Y
+  13 	8  	31 	+4.70 	Y	4	17	126	Eph	Y		Y
+  9  	9  	30 	+1.29 	Y	4	75	344	Eph	Y		Y
+  0  	16 	29 	+0.68 	Y	4	33	45 	Eph	Y		Y
+  1  	23 	41 	+0.17 	Y	4	63	103	Eph	Y		Y
+  4  	26 	21 	-3.89 	Y	4	6 	39 	Eph	Y		Y
+  14 	27 	31 	+0.49 	Y	4	21	94 	Eph	Y		Y
+  3  	30 	34 	+0.70 	Y	4	25	262	Eph	Y		Y
+  5  	138	39 	+1.58 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  6  	6  	12 	+0.00 	N	3	0 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:01:59 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.58509860 deg
+  Longitude    : -122.02230990 deg
+  Altitude     : -00018.000 m
+  Pos Acc      : 12.54  12.13  10.22 m
+  Vel Acc      : 00.98 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	21 	-4.31 	Y	4	17	174	Eph	Y		Y
+  7  	7  	44 	+0.41 	Y	6	52	283	Eph	Y		Y
+  13 	8  	28 	+5.14 	Y	4	17	126	Eph	Y		Y
+  9  	9  	31 	-5.94 	Y	4	75	344	Eph	Y		Y
+  0  	16 	25 	+2.75 	Y	4	32	45 	Eph	Y		Y
+  1  	23 	38 	-1.14 	Y	6	63	103	Eph	Y		Y
+  4  	26 	19 	-30.04	Y	4	6 	39 	Eph	Y		Y
+  14 	27 	27 	+6.22 	Y	4	21	94 	Eph	Y		Y
+  3  	30 	32 	-2.87 	Y	4	25	262	Eph	Y		Y
+  5  	138	34 	-1.94 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	257	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:02:27 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.58626800 deg
+  Longitude    : -122.02190650 deg
+  Altitude     : -00019.296 m
+  Pos Acc      : 12.45  12.04  09.72 m
+  Vel Acc      : 00.66 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	-5.42 	Y	6	16	174	Eph	Y		Y
+  7  	7  	43 	-0.11 	Y	7	52	283	Eph	Y		Y
+  13 	8  	31 	+1.07 	Y	6	18	126	Eph	Y		Y
+  9  	9  	27 	+5.89 	Y	4	76	345	Eph	Y		Y
+  0  	16 	20 	-15.13	Y	4	32	45 	Eph	Y		Y
+  1  	23 	39 	-1.04 	Y	7	63	104	Eph	Y		Y
+  4  	26 	23 	-15.29	Y	4	6 	39 	Eph	Y		Y
+  14 	27 	29 	+5.75 	Y	4	21	94 	Eph	Y		Y
+  3  	30 	35 	-4.49 	Y	6	26	263	Eph	Y		N
+  5  	138	35 	-1.01 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:02:56 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.58698730 deg
+  Longitude    : -122.02165920 deg
+  Altitude     : -00011.319 m
+  Pos Acc      : 12.06  11.66  09.65 m
+  Vel Acc      : 00.64 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	23 	-3.14 	Y	4	16	174	Eph	Y		Y
+  7  	7  	43 	-1.49 	Y	7	53	283	Eph	Y		Y
+  13 	8  	34 	+6.63 	Y	4	18	125	Eph	Y		Y
+  9  	9  	33 	-5.60 	Y	4	76	345	Eph	Y		Y
+  0  	16 	26 	+4.43 	Y	4	32	45 	Eph	Y		Y
+  1  	23 	38 	-2.24 	Y	4	63	104	Eph	Y		Y
+  4  	26 	24 	+3.31 	Y	4	6 	39 	Eph	Y		Y
+  14 	27 	33 	+7.19 	Y	4	21	93 	Eph	Y		Y
+  3  	30 	35 	-3.59 	Y	4	26	263	Eph	Y		N
+  5  	138	39 	-3.72 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:03:25 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.59017770 deg
+  Longitude    : -122.02054790 deg
+  Altitude     : -00018.290 m
+  Pos Acc      : 15.87  14.21  11.64 m
+  Vel Acc      : 01.22 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	-11.80	Y	4	16	174	Eph	Y		N
+  7  	7  	44 	-0.71 	Y	6	53	284	Eph	Y		N
+  13 	8  	30 	+0.47 	Y	4	18	125	Eph	Y		N
+  9  	9  	36 	-0.59 	Y	6	76	346	Eph	Y		N
+  0  	16 	31 	+6.29 	Y	4	32	45 	Eph	Y		N
+  1  	23 	33 	-2.53 	Y	4	63	104	Eph	Y		N
+  4  	26 	16 	-11.99	Y	4	6 	39 	Eph	Y		N
+  14 	27 	26 	+2.02 	Y	4	21	93 	Eph	Y		N
+  3  	30 	28 	-2.48 	Y	4	26	263	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+  5  	138	41 	+0.00 	N	6	44	156	---	Y		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:03:54 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.59032140 deg
+  Longitude    : -122.02052450 deg
+  Altitude     : -00015.198 m
+  Pos Acc      : 16.41  12.16  13.47 m
+  Vel Acc      : 00.75 m/s
+  Time Acc     : 10   ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	30 	-2.17 	Y	4	16	174	Eph	Y		Y
+  7  	7  	45 	-0.10 	Y	7	53	284	Eph	Y		Y
+  13 	8  	29 	-0.92 	Y	6	18	125	Eph	Y		Y
+  9  	9  	32 	-11.37	Y	6	76	346	Eph	Y		Y
+  0  	16 	26 	+16.78	Y	4	32	44 	Eph	Y		Y
+  1  	23 	37 	+2.37 	Y	7	62	105	Eph	Y		Y
+  14 	27 	23 	-22.72	Y	4	21	93 	Eph	Y		Y
+  3  	30 	28 	-12.00	Y	4	26	263	Eph	Y		Y
+  5  	138	37 	-6.64 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	5 	39 	Eph	Y		N
+  8  	133	28 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:04:23 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.59037660 deg
+  Longitude    : -122.02051950 deg
+  Altitude     : -00014.040 m
+  Pos Acc      : 14.58  10.80  11.96 m
+  Vel Acc      : 00.73 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	26 	-0.53 	Y	4	16	174	Eph	Y		Y
+  7  	7  	45 	-1.32 	Y	7	53	284	Eph	Y		Y
+  13 	8  	32 	-0.40 	Y	4	18	125	Eph	Y		Y
+  9  	9  	34 	-4.79 	Y	4	76	346	Eph	Y		Y
+  0  	16 	32 	+6.03 	Y	4	31	44 	Eph	Y		Y
+  1  	23 	36 	-2.70 	Y	6	62	105	Eph	Y		Y
+  14 	27 	31 	+3.42 	Y	4	21	93 	Eph	Y		Y
+  3  	30 	28 	-6.72 	Y	4	26	263	Eph	Y		Y
+  5  	138	30 	-1.40 	Y	4	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	0 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  4  	26 	19 	-23.43	N	3	5 	39 	Eph	Y		Y
+  8  	133	0  	+0.00 	N	1	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:04:51 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.59363750 deg
+  Longitude    : -122.01931130 deg
+  Altitude     : -00014.880 m
+  Pos Acc      : 11.94  08.95  09.67 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	-8.31 	Y	4	15	174	Eph	Y		Y
+  7  	7  	45 	-1.40 	Y	6	53	284	Eph	Y		Y
+  13 	8  	33 	+3.54 	Y	4	18	125	Eph	Y		Y
+  9  	9  	38 	-0.38 	Y	4	77	347	Eph	Y		Y
+  0  	16 	32 	+11.06	Y	4	31	44 	Eph	Y		N
+  1  	23 	36 	-3.46 	Y	6	62	105	Eph	Y		N
+  14 	27 	37 	+7.82 	Y	6	21	93 	Eph	Y		Y
+  3  	30 	28 	-7.51 	Y	4	26	263	Eph	Y		Y
+  5  	138	38 	-0.99 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	19 	+0.00 	N	4	1 	327	---	Y		N
+  6  	6  	0  	+0.00 	N	1	0 	256	Eph	Y		N
+  4  	26 	23 	-3.47 	N	4	5 	39 	Eph	Y		N
+  8  	133	29 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:05:20 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 14
+  Sats used    : 9
+  Latitude     : +37.59747410 deg
+  Longitude    : -122.01794180 deg
+  Altitude     : -00015.135 m
+  Pos Acc      : 12.33  09.25  10.38 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	35 	-7.41 	Y	4	15	174	Eph	Y		Y
+  7  	7  	45 	-0.06 	Y	6	53	285	Eph	Y		Y
+  13 	8  	36 	+3.46 	Y	4	18	125	Eph	Y		Y
+  9  	9  	36 	-1.44 	Y	4	77	347	Eph	Y		Y
+  0  	16 	32 	+4.31 	Y	4	31	44 	Eph	Y		Y
+  1  	23 	36 	-1.97 	Y	6	62	106	Eph	Y		Y
+  14 	27 	38 	+2.62 	Y	6	21	92 	Eph	Y		Y
+  3  	30 	26 	+0.93 	Y	4	26	264	Eph	Y		Y
+  5  	138	37 	+1.00 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	14 	+0.00 	N	4	1 	327	---	Y		N
+  4  	26 	0  	+0.00 	N	1	5 	39 	Eph	Y		N
+  8  	133	34 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:05:49 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.59841870 deg
+  Longitude    : -122.01761850 deg
+  Altitude     : -00013.877 m
+  Pos Acc      : 10.80  08.10  09.13 m
+  Vel Acc      : 00.50 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	34 	-4.73 	Y	4	15	174	Eph	Y		Y
+  7  	7  	45 	-0.92 	Y	7	53	285	Eph	Y		Y
+  13 	8  	36 	+0.85 	Y	6	19	125	Eph	Y		Y
+  9  	9  	34 	-1.78 	Y	7	77	348	Eph	Y		Y
+  0  	16 	30 	-1.04 	Y	4	31	44 	Eph	Y		Y
+  1  	23 	36 	-3.36 	Y	6	62	106	Eph	Y		Y
+  14 	27 	38 	-1.23 	Y	6	22	92 	Eph	Y		Y
+  3  	30 	29 	-2.70 	Y	4	27	264	Eph	Y		Y
+  5  	138	38 	-0.15 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	1 	327	---	Y		N
+  4  	26 	0  	+0.00 	N	1	5 	39 	Eph	Y		N
+  15 	28 	0  	+0.00 	N	1	0 	208	---	Y		N
+  8  	133	32 	+0.00 	N	3	41	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:06:18 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60168760 deg
+  Longitude    : -122.01643530 deg
+  Altitude     : -00012.993 m
+  Pos Acc      : 11.70  08.78  10.07 m
+  Vel Acc      : 00.41 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	+0.89 	Y	4	15	174	Eph	Y		Y
+  7  	7  	40 	+1.99 	Y	6	53	285	Eph	Y		Y
+  13 	8  	33 	+0.67 	Y	4	19	124	Eph	Y		Y
+  9  	9  	35 	+1.62 	Y	4	77	348	Eph	Y		Y
+  0  	16 	37 	+0.28 	Y	4	31	44 	Eph	Y		Y
+  1  	23 	39 	+0.51 	Y	4	62	107	Eph	Y		Y
+  14 	27 	31 	-1.84 	Y	4	22	92 	Eph	Y		Y
+  3  	30 	35 	-1.95 	Y	4	27	264	Eph	Y		Y
+  5  	138	37 	+0.64 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	13 	+0.00 	N	4	1 	327	---	Y		N
+  4  	26 	0  	+0.00 	N	1	5 	39 	Eph	Y		N
+  15 	28 	0  	+0.00 	N	1	0 	208	---	Y		N
+  8  	133	29 	+0.00 	N	3	42	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:06:47 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60281240 deg
+  Longitude    : -122.01614630 deg
+  Altitude     : -00004.265 m
+  Pos Acc      : 09.33  07.00  07.07 m
+  Vel Acc      : 00.45 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	27 	-11.83	Y	4	15	174	Eph	Y		N
+  7  	7  	30 	-0.51 	Y	4	54	286	Eph	Y		N
+  13 	8  	35 	+1.14 	Y	6	19	124	Eph	Y		N
+  9  	9  	27 	-0.40 	Y	4	77	349	Eph	Y		N
+  0  	16 	26 	+2.50 	Y	4	31	44 	Eph	Y		N
+  1  	23 	41 	-2.36 	Y	6	61	107	Eph	Y		N
+  14 	27 	28 	-4.27 	Y	4	22	92 	Eph	Y		N
+  3  	30 	38 	+0.87 	Y	6	27	264	Eph	Y		N
+  5  	138	41 	+0.41 	Y	6	44	156	Eph	Y		N
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	19 	+0.00 	N	4	1 	327	---	Y		N
+  4  	26 	0  	+0.00 	N	1	4 	39 	Eph	Y		N
+  15 	28 	0  	+0.00 	N	1	0 	208	---	Y		N
+  8  	133	41 	+0.00 	N	6	42	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:07:15 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60573310 deg
+  Longitude    : -122.01926720 deg
+  Altitude     : -00003.186 m
+  Pos Acc      : 10.74  08.16  08.59 m
+  Vel Acc      : 00.42 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	15 	-1.51 	Y	4	14	174	Eph	Y		Y
+  7  	7  	23 	-2.54 	Y	4	54	286	Eph	Y		Y
+  13 	8  	21 	+17.78	Y	4	19	124	Eph	Y		Y
+  9  	9  	32 	+0.97 	Y	4	78	350	Eph	Y		Y
+  0  	16 	31 	+3.67 	Y	4	30	44 	Eph	Y		Y
+  1  	23 	43 	-0.22 	Y	7	61	107	Eph	Y		Y
+  14 	27 	28 	-9.47 	Y	4	22	91 	Eph	Y		Y
+  3  	30 	43 	-0.57 	Y	7	27	264	Eph	Y		Y
+  5  	138	38 	+0.95 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	1 	327	---	Y		N
+  4  	26 	0  	+0.00 	N	1	4 	39 	Eph	Y		N
+  15 	28 	0  	+0.00 	N	1	0 	208	---	Y		N
+  8  	133	43 	+0.00 	N	6	42	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:07:44 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 8
+  Latitude     : +37.60584880 deg
+  Longitude    : -122.01945160 deg
+  Altitude     : +00012.526 m
+  Pos Acc      : 09.63  07.49  07.45 m
+  Vel Acc      : 00.64 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	22 	+0.88 	Y	4	14	174	Eph	Y		Y
+  7  	7  	32 	-6.33 	Y	6	54	286	Eph	Y		Y
+  9  	9  	32 	-0.57 	Y	6	78	350	Eph	Y		Y
+  0  	16 	36 	+9.55 	Y	7	30	44 	Eph	Y		Y
+  1  	23 	41 	-0.25 	Y	7	61	108	Eph	Y		Y
+  14 	27 	33 	-19.78	Y	6	22	91 	Eph	Y		Y
+  3  	30 	42 	-0.70 	Y	7	27	264	Eph	Y		Y
+  5  	138	34 	+4.86 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	1 	327	---	Y		N
+  13 	8  	31 	+17.86	N	4	19	124	Eph	Y		Y
+  4  	26 	0  	+0.00 	N	1	4 	39 	Eph	Y		N
+  15 	28 	0  	+0.00 	N	1	0 	208	---	Y		N
+  8  	133	41 	+0.00 	N	6	42	142	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:08:13 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60584930 deg
+  Longitude    : -122.01943060 deg
+  Altitude     : +00006.410 m
+  Pos Acc      : 10.17  08.11  08.14 m
+  Vel Acc      : 00.78 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	24 	+1.22 	Y	4	14	174	Eph	Y		Y
+  7  	7  	26 	-2.87 	Y	4	54	287	Eph	Y		Y
+  13 	8  	34 	+5.55 	Y	4	19	124	Eph	Y		Y
+  9  	9  	33 	-7.94 	Y	4	78	351	Eph	Y		Y
+  0  	16 	31 	+2.57 	Y	4	30	44 	Eph	Y		Y
+  1  	23 	43 	-1.17 	Y	6	61	108	Eph	Y		Y
+  14 	27 	23 	-19.54	Y	4	22	91 	Eph	Y		Y
+  3  	30 	43 	-0.84 	Y	7	27	265	Eph	Y		Y
+  8  	133	42 	-2.86 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	-1.11 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	4 	39 	Eph	Y		N
+  15 	28 	24 	+0.00 	N	3	0 	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:08:42 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60582910 deg
+  Longitude    : -122.01942120 deg
+  Altitude     : +00005.283 m
+  Pos Acc      : 10.35  08.62  08.31 m
+  Vel Acc      : 00.96 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	22 	+0.02 	Y	4	14	174	Eph	Y		Y
+  7  	7  	28 	-5.39 	Y	5	54	287	Eph	Y		Y
+  13 	8  	32 	+1.36 	Y	6	19	124	Eph	Y		Y
+  9  	9  	18 	-14.59	Y	4	78	351	Eph	Y		Y
+  0  	16 	33 	-2.81 	Y	7	30	44 	Eph	Y		Y
+  1  	23 	40 	-0.94 	Y	7	61	108	Eph	Y		Y
+  3  	30 	41 	-0.86 	Y	7	28	265	Eph	Y		Y
+  8  	133	41 	-5.80 	Y	6	42	142	Eph	Y		N
+  5  	138	37 	-5.01 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	0  	+0.00 	N	1	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	4 	39 	Eph	Y		N
+  14 	27 	27 	-25.49	N	4	22	91 	Eph	Y		Y
+  15 	28 	14 	+0.00 	N	4	1 	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:09:11 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60581360 deg
+  Longitude    : -122.01942210 deg
+  Altitude     : +00005.997 m
+  Pos Acc      : 10.74  08.56  08.56 m
+  Vel Acc      : 00.75 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	16 	-12.05	Y	4	13	174	Eph	Y		Y
+  7  	7  	31 	-7.34 	Y	5	54	287	Eph	Y		Y
+  13 	8  	33 	+1.75 	Y	6	20	123	Eph	Y		Y
+  9  	9  	25 	-9.84 	Y	4	78	352	Eph	Y		Y
+  0  	16 	30 	+3.12 	Y	4	30	43 	Eph	Y		Y
+  1  	23 	40 	-1.16 	Y	7	61	109	Eph	Y		Y
+  14 	27 	25 	+8.64 	Y	4	22	91 	Eph	Y		Y
+  3  	30 	42 	-0.91 	Y	7	28	265	Eph	Y		Y
+  8  	133	41 	-4.86 	Y	6	42	142	Eph	Y		N
+  5  	138	37 	-4.89 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	26 	+0.00 	N	4	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  15 	28 	26 	+0.00 	N	4	1 	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:09:40 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60582130 deg
+  Longitude    : -122.01941160 deg
+  Altitude     : +00005.142 m
+  Pos Acc      : 11.16  08.24  08.93 m
+  Vel Acc      : 00.74 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  7  	7  	32 	-8.55 	Y	4	54	288	Eph	Y		Y
+  13 	8  	32 	+3.19 	Y	6	20	123	Eph	Y		Y
+  9  	9  	26 	-0.27 	Y	4	79	353	Eph	Y		Y
+  0  	16 	31 	+4.15 	Y	4	29	43 	Eph	Y		Y
+  1  	23 	40 	-1.35 	Y	7	60	109	Eph	Y		Y
+  14 	27 	29 	-11.69	Y	4	22	90 	Eph	Y		Y
+  3  	30 	42 	-0.71 	Y	7	28	265	Eph	Y		Y
+  8  	133	41 	-5.58 	Y	6	42	142	Eph	Y		N
+  5  	138	37 	-4.99 	Y	6	44	156	Eph	Y		Y
+  2  	3  	21 	-21.57	N	4	13	174	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	18 	+0.00 	N	3	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  15 	28 	26 	+0.00 	N	4	1 	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:10:08 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60581890 deg
+  Longitude    : -122.01940480 deg
+  Altitude     : -00003.283 m
+  Pos Acc      : 10.98  09.27  08.80 m
+  Vel Acc      : 00.70 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	24 	-3.83 	Y	4	13	174	Eph	Y		Y
+  7  	7  	32 	-3.69 	Y	6	55	288	Eph	Y		Y
+  13 	8  	32 	+4.87 	Y	6	20	123	Eph	Y		Y
+  9  	9  	33 	-2.37 	Y	6	79	354	Eph	Y		Y
+  0  	16 	31 	+1.40 	Y	5	29	43 	Eph	Y		Y
+  1  	23 	40 	-0.70 	Y	7	60	109	Eph	Y		Y
+  3  	30 	41 	-0.01 	Y	7	28	265	Eph	Y		Y
+  8  	133	41 	-5.70 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	-5.40 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	23 	+0.00 	N	4	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  14 	27 	0  	+0.00 	N	1	22	90 	Eph	Y		N
+  15 	28 	31 	+0.00 	N	4	1 	208	---	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:10:37 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60581380 deg
+  Longitude    : -122.01940330 deg
+  Altitude     : -00003.461 m
+  Pos Acc      : 09.27  07.62  07.41 m
+  Vel Acc      : 00.82 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	16 	-17.23	Y	4	13	174	Eph	Y		Y
+  7  	7  	34 	-4.69 	Y	6	55	288	Eph	Y		Y
+  13 	8  	32 	+0.74 	Y	6	20	123	Eph	Y		Y
+  9  	9  	36 	-3.89 	Y	7	79	354	Eph	Y		Y
+  0  	16 	31 	+0.11 	Y	4	29	43 	Eph	Y		Y
+  1  	23 	41 	-0.85 	Y	7	60	109	Eph	Y		Y
+  14 	27 	27 	-4.79 	Y	4	22	90 	Eph	Y		Y
+  3  	30 	41 	-1.40 	Y	7	28	266	Eph	Y		Y
+  8  	133	41 	-5.53 	Y	6	42	142	Eph	Y		N
+  5  	138	37 	-6.81 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	21 	+0.00 	N	4	2 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  15 	28 	32 	+0.00 	N	6	1 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:11:06 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60581620 deg
+  Longitude    : -122.01940800 deg
+  Altitude     : -00000.644 m
+  Pos Acc      : 08.85  07.27  07.00 m
+  Vel Acc      : 00.78 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	24 	-8.88 	Y	4	13	174	Eph	Y		Y
+  7  	7  	26 	+2.67 	Y	4	55	289	Eph	Y		Y
+  13 	8  	34 	+0.93 	Y	7	20	123	Eph	Y		Y
+  9  	9  	36 	-1.97 	Y	7	79	355	Eph	Y		Y
+  0  	16 	33 	-0.39 	Y	6	29	43 	Eph	Y		Y
+  1  	23 	40 	-0.46 	Y	7	60	110	Eph	Y		Y
+  14 	27 	26 	-2.69 	Y	4	23	90 	Eph	Y		Y
+  3  	30 	41 	-1.82 	Y	7	28	266	Eph	Y		Y
+  8  	133	41 	-5.56 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	-4.59 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	24 	+0.00 	N	4	3 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  15 	28 	32 	+0.00 	N	4	2 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:11:35 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60582440 deg
+  Longitude    : -122.01940160 deg
+  Altitude     : -00004.268 m
+  Pos Acc      : 08.88  07.30  06.71 m
+  Vel Acc      : 00.66 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	28 	-13.87	Y	4	12	174	Eph	Y		Y
+  7  	7  	31 	-6.24 	Y	6	55	289	Eph	Y		Y
+  13 	8  	36 	-3.93 	Y	6	20	122	Eph	Y		Y
+  9  	9  	38 	-1.75 	Y	7	79	356	Eph	Y		Y
+  0  	16 	30 	+4.14 	Y	6	29	43 	Eph	Y		Y
+  1  	23 	42 	-4.17 	Y	7	60	110	Eph	Y		Y
+  14 	27 	23 	-0.96 	Y	4	23	89 	Eph	Y		Y
+  3  	30 	40 	-0.80 	Y	7	28	266	Eph	Y		Y
+  8  	133	41 	-5.04 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	-4.74 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	24 	+0.00 	N	4	3 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	3 	39 	Eph	Y		N
+  15 	28 	31 	+0.00 	N	4	2 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:12:04 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60584130 deg
+  Longitude    : -122.01941430 deg
+  Altitude     : -00003.880 m
+  Pos Acc      : 08.31  06.83  06.37 m
+  Vel Acc      : 00.66 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	30 	-11.53	Y	4	12	173	Eph	Y		Y
+  7  	7  	30 	-7.12 	Y	4	55	289	Eph	Y		Y
+  13 	8  	36 	+0.88 	Y	7	21	122	Eph	Y		Y
+  9  	9  	40 	-0.12 	Y	7	80	356	Eph	Y		Y
+  0  	16 	32 	-3.50 	Y	5	28	43 	Eph	Y		Y
+  1  	23 	40 	-1.36 	Y	7	59	110	Eph	Y		Y
+  14 	27 	25 	-6.51 	Y	4	23	89 	Eph	Y		Y
+  3  	30 	37 	+1.98 	Y	7	29	266	Eph	Y		Y
+  8  	133	41 	-1.28 	Y	6	42	142	Eph	Y		N
+  5  	138	33 	-0.99 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	27 	+0.00 	N	4	3 	326	---	Y		N
+  4  	26 	0  	+0.00 	N	1	2 	39 	Eph	Y		N
+  15 	28 	36 	+0.00 	N	7	2 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:12:32 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60584270 deg
+  Longitude    : -122.01941940 deg
+  Altitude     : -00005.337 m
+  Pos Acc      : 08.97  07.47  06.96 m
+  Vel Acc      : 00.62 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	29 	-8.76 	Y	4	12	173	Eph	Y		N
+  7  	7  	21 	-0.71 	Y	4	55	290	Eph	Y		N
+  13 	8  	35 	-0.37 	Y	7	21	122	Eph	Y		N
+  9  	9  	31 	+0.90 	Y	4	80	357	Eph	Y		N
+  0  	16 	34 	-1.05 	Y	6	28	43 	Eph	Y		Y
+  1  	23 	42 	-0.38 	Y	7	59	111	Eph	Y		Y
+  14 	27 	24 	-3.94 	Y	4	23	89 	Eph	Y		Y
+  3  	30 	35 	+0.05 	Y	6	29	266	Eph	Y		Y
+  8  	133	41 	-1.45 	Y	6	42	142	Eph	Y		N
+  5  	138	35 	+1.45 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	18 	+0.00 	N	4	3 	326	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	2 	39 	Eph	Y		N
+  15 	28 	26 	+0.00 	N	4	2 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:13:01 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60586400 deg
+  Longitude    : -122.01942040 deg
+  Altitude     : -00003.442 m
+  Pos Acc      : 08.46  07.05  06.66 m
+  Vel Acc      : 00.70 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	27 	-4.21 	Y	4	12	173	Eph	Y		Y
+  7  	7  	27 	+0.12 	Y	4	55	290	Eph	Y		Y
+  13 	8  	33 	-1.74 	Y	6	21	122	Eph	Y		Y
+  9  	9  	38 	-0.10 	Y	6	80	358	Eph	Y		Y
+  0  	16 	33 	-2.88 	Y	5	28	43 	Eph	Y		Y
+  1  	23 	42 	-0.39 	Y	7	59	111	Eph	Y		Y
+  14 	27 	27 	-10.60	Y	4	23	89 	Eph	Y		Y
+  3  	30 	38 	-0.19 	Y	7	29	266	Eph	Y		Y
+  8  	133	41 	-0.12 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	+0.14 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	17 	+0.00 	N	4	3 	326	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	2 	39 	Eph	Y		N
+  15 	28 	36 	+0.00 	N	4	2 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:13:30 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60584140 deg
+  Longitude    : -122.01943710 deg
+  Altitude     : -00003.958 m
+  Pos Acc      : 09.90  08.25  07.69 m
+  Vel Acc      : 00.62 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	25 	-6.42 	Y	4	12	173	Eph	Y		Y
+  7  	7  	30 	-1.43 	Y	4	55	290	Eph	Y		Y
+  13 	8  	31 	+5.46 	Y	6	21	122	Eph	Y		Y
+  9  	9  	37 	-0.33 	Y	7	80	359	Eph	Y		Y
+  0  	16 	30 	-1.18 	Y	4	28	43 	Eph	Y		Y
+  1  	23 	41 	-0.32 	Y	7	59	111	Eph	Y		Y
+  14 	27 	30 	-11.70	Y	4	23	89 	Eph	Y		Y
+  3  	30 	36 	-0.66 	Y	7	29	267	Eph	Y		Y
+  8  	133	41 	-0.36 	Y	6	42	142	Eph	Y		N
+  5  	138	34 	+1.06 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	22 	+0.00 	N	4	3 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	2 	39 	Eph	Y		N
+  15 	28 	37 	+0.00 	N	5	3 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:13:59 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60584480 deg
+  Longitude    : -122.01942080 deg
+  Altitude     : -00003.949 m
+  Pos Acc      : 09.99  08.68  07.85 m
+  Vel Acc      : 00.77 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	20 	-9.70 	Y	4	11	173	Eph	Y		Y
+  7  	7  	26 	+13.41	Y	4	56	291	Eph	Y		Y
+  13 	8  	32 	+2.74 	Y	6	21	122	Eph	Y		Y
+  9  	9  	39 	-1.33 	Y	7	80	0  	Eph	Y		Y
+  0  	16 	32 	-1.54 	Y	5	28	43 	Eph	Y		Y
+  1  	23 	41 	-0.70 	Y	7	59	112	Eph	Y		Y
+  3  	30 	34 	+0.47 	Y	6	29	267	Eph	Y		Y
+  8  	133	40 	-0.99 	Y	6	42	142	Eph	Y		N
+  5  	138	35 	-0.54 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	21 	+0.00 	N	4	3 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	2 	39 	Eph	Y		N
+  14 	27 	31 	-24.08	N	4	23	88 	Eph	Y		Y
+  15 	28 	31 	+0.00 	N	4	3 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:14:28 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60578630 deg
+  Longitude    : -122.01944330 deg
+  Altitude     : +00001.150 m
+  Pos Acc      : 10.62  08.85  08.33 m
+  Vel Acc      : 00.70 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	18 	-14.16	Y	4	11	173	Eph	Y		Y
+  7  	7  	21 	+13.61	Y	4	56	291	Eph	Y		Y
+  13 	8  	29 	+6.43 	Y	4	21	121	Eph	Y		Y
+  9  	9  	39 	-2.02 	Y	7	81	0  	Eph	Y		Y
+  0  	16 	31 	+8.66 	Y	4	27	43 	Eph	Y		Y
+  1  	23 	40 	+0.08 	Y	7	58	112	Eph	Y		Y
+  14 	27 	18 	-7.45 	Y	4	23	88 	Eph	Y		Y
+  3  	30 	36 	-2.64 	Y	6	29	267	Eph	Y		Y
+  8  	133	41 	-1.26 	Y	6	42	142	Eph	Y		N
+  5  	138	35 	-2.94 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	15 	+0.00 	N	4	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	30 	+0.00 	N	5	3 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:14:56 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 9
+  Latitude     : +37.60578740 deg
+  Longitude    : -122.01944600 deg
+  Altitude     : +00002.217 m
+  Pos Acc      : 12.39  09.44  09.85 m
+  Vel Acc      : 00.78 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  7  	7  	19 	+28.15	Y	4	56	291	Eph	Y		Y
+  13 	8  	30 	-1.60 	Y	4	21	121	Eph	Y		Y
+  9  	9  	37 	-0.50 	Y	7	81	1  	Eph	Y		Y
+  0  	16 	28 	+2.95 	Y	4	27	43 	Eph	Y		Y
+  1  	23 	42 	-1.39 	Y	7	58	112	Eph	Y		Y
+  14 	27 	19 	+11.68	Y	4	23	88 	Eph	Y		Y
+  3  	30 	34 	-0.45 	Y	6	29	267	Eph	Y		Y
+  8  	133	41 	-3.35 	Y	6	42	142	Eph	Y		N
+  5  	138	34 	-3.89 	Y	6	44	156	Eph	Y		Y
+  2  	3  	18 	-60.94	N	3	11	173	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	24 	+0.00 	N	4	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	39 	+0.00 	N	6	3 	208	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:15:25 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60584200 deg
+  Longitude    : -122.01944130 deg
+  Altitude     : +00001.258 m
+  Pos Acc      : 10.50  08.75  08.24 m
+  Vel Acc      : 00.54 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	20 	-20.92	Y	4	11	173	Eph	Y		Y
+  7  	7  	27 	+2.13 	Y	4	56	292	Eph	Y		Y
+  13 	8  	28 	+10.48	Y	4	22	121	Eph	Y		Y
+  9  	9  	37 	+0.10 	Y	7	81	2  	Eph	Y		Y
+  0  	16 	25 	-1.15 	Y	4	27	42 	Eph	Y		Y
+  1  	23 	41 	-0.25 	Y	7	58	113	Eph	Y		Y
+  14 	27 	32 	-8.74 	Y	6	23	88 	Eph	Y		Y
+  3  	30 	35 	-2.73 	Y	7	30	267	Eph	Y		Y
+  8  	133	42 	-0.02 	Y	6	42	142	Eph	Y		N
+  5  	138	35 	-0.23 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	19 	+0.00 	N	4	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	39 	+0.00 	N	7	3 	209	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:15:54 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60582290 deg
+  Longitude    : -122.01944000 deg
+  Altitude     : +00004.420 m
+  Pos Acc      : 12.36  10.62  09.83 m
+  Vel Acc      : 00.56 m/s
+  Time Acc     : 8    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	22 	-10.85	Y	4	11	173	Eph	Y		Y
+  7  	7  	29 	-3.56 	Y	4	56	292	Eph	Y		Y
+  13 	8  	26 	+10.97	Y	4	22	121	Eph	Y		Y
+  9  	9  	34 	-1.35 	Y	6	81	3  	Eph	Y		Y
+  0  	16 	26 	+5.92 	Y	4	27	42 	Eph	Y		Y
+  1  	23 	41 	-0.30 	Y	7	58	113	Eph	Y		Y
+  14 	27 	29 	+0.89 	Y	4	23	87 	Eph	Y		Y
+  3  	30 	33 	-1.23 	Y	6	30	268	Eph	Y		Y
+  8  	133	41 	-1.01 	Y	6	42	142	Eph	Y		N
+  5  	138	35 	-2.40 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	14 	+0.00 	N	3	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	40 	+0.00 	N	6	4 	209	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:16:23 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60583010 deg
+  Longitude    : -122.01943870 deg
+  Altitude     : +00002.594 m
+  Pos Acc      : 11.13  09.56  08.49 m
+  Vel Acc      : 00.92 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	31 	-7.03 	Y	4	10	173	Eph	Y		Y
+  7  	7  	38 	-4.89 	Y	6	56	292	Eph	Y		Y
+  13 	8  	37 	+1.17 	Y	6	22	121	Eph	Y		Y
+  9  	9  	26 	+4.47 	Y	4	81	4  	Eph	Y		Y
+  0  	16 	21 	-0.19 	Y	4	27	42 	Eph	Y		Y
+  1  	23 	39 	-0.35 	Y	6	58	113	Eph	Y		Y
+  14 	27 	34 	-1.02 	Y	4	23	87 	Eph	Y		Y
+  3  	30 	26 	+1.60 	Y	4	30	268	Eph	Y		Y
+  8  	133	41 	-0.79 	Y	6	42	142	Eph	Y		N
+  5  	138	36 	+1.20 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	18 	+0.00 	N	4	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	28 	+0.00 	N	4	4 	209	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
+Fri Mar 18 14:16:52 PDT 2016
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 15
+  Sats used    : 10
+  Latitude     : +37.60620300 deg
+  Longitude    : -122.01987210 deg
+  Altitude     : +00004.429 m
+  Pos Acc      : 09.99  08.58  07.87 m
+  Vel Acc      : 00.46 m/s
+  Time Acc     : 5    ns
+
+Space Vehicle Info:
+  Ch	SV	CN0	Residual	Nav	Qi	El	Az	Orbit	Healthy	DGPS
+  2  	3  	27 	-5.78 	Y	4	10	173	Eph	Y		Y
+  7  	7  	35 	-4.23 	Y	6	56	293	Eph	Y		Y
+  13 	8  	37 	+0.18 	Y	6	22	121	Eph	Y		Y
+  9  	9  	33 	-2.44 	Y	4	81	5  	Eph	Y		Y
+  0  	16 	24 	-2.72 	Y	4	27	42 	Eph	Y		Y
+  1  	23 	35 	-1.18 	Y	6	58	113	Eph	Y		Y
+  14 	27 	22 	-4.25 	Y	4	23	87 	Eph	Y		Y
+  3  	30 	39 	-1.37 	Y	4	30	268	Eph	Y		Y
+  8  	133	41 	-1.30 	Y	6	42	142	Eph	Y		N
+  5  	138	38 	+2.61 	Y	6	44	156	Eph	Y		Y
+  12 	4  	0  	+0.00 	N	1	-91	0  	none	N		N
+  11 	5  	17 	+0.00 	N	3	4 	325	Eph	Y		N
+  4  	26 	0  	+0.00 	N	1	1 	39 	Eph	Y		N
+  15 	28 	26 	+0.00 	N	4	4 	209	Eph	Y		N
+  10 	134	0  	+0.00 	N	1	15	250	none	N		N
+
+--------------------------------------------------------------------------------
