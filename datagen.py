@@ -33,7 +33,10 @@ with open(sys.argv[1]) as file:
 			dataType = 2
 		elif '----------------------------------------------------' in line and dataType == 2:
 			# assemble data line here
-			dataPt.cn = sum(satData[1])/len(satData[1])
+			if dataPt.used != 0:
+				dataPt.cn = sum(satData[1])/len(satData[1])
+			else:
+				dataPt.cn = 0
 			dataPt.rawcn = satData
 			dataSet.append(dataPt)
 			dataType = 0
