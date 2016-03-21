@@ -5,11 +5,15 @@ import time, sys, os.path
 dataType = 0 # 0 - time, 1 - solution, 2 - SV
 dataSet = []
 dataPt = []
+satData = []
+satData.append([])
+satData.append([])
 
 if not os.path.isfile(sys.argv[1]):
 	exit("Could not find file")
 with open(sys.argv[1]) as file:
 	for line in file:
+#		print line
 		if 'Gps Solution' in line and dataType == 0:
 			dataType = 1
 			continue
@@ -17,38 +21,51 @@ with open(sys.argv[1]) as file:
 			dataType = 2
 			continue
 		elif '----------------------------------------------------' in line and dataType == 2:
-			dataType = 0
 			# assemble data line here
+			dataPt[8] = sum(satData[1])/len(satData[1])
+			dataPt[9] = satData
+			dataSet.append(dataPt)
+			dataType = 0
+			satData = []
+			satData.append([])
+			satData.append([])
 			continue
-		
+
 		if dataType == 0:
 			try:
-				data[0] = time.strptime(line,"%a %b %d %H:%M:%S %Z %Y\n")
+				dataPt[0] = time.strptime(line,"%a %b %d %H:%M:%S %Z %Y\n")
+				print 'h'
 			except:
-				continue
+				continue #print "time capture exception"
 		elif dataType == 1:
 			try:
 				if "Sats visible" in line:
+					dataPt[3] = int(line.split(':')[1])
 				elif "Sats used" in line:
+					dataPt[4] = int(line.split(':')[1])
 				elif "Latitude" in line:
-					
+					dataPt[1] = float(line.split(':')[1].split(' ')[1])
 				elif "Longitude" in line:
+					dataPt[2] = float(line.split(':')[1].split(' ')[1])
 				elif "Pos Acc" in line:
+					temp = x.split(':')[1].split(' ')
+					del temp[0::2]
+					dataPt[5] = math.sqrt(sum(map(lambda i:i*i,[float(j) for j in temp])))
 				elif "Vel Acc" in line:
+					dataPt[6] = float(x.split(':')[1].split(' ')[1])
 				elif "Time Acc" in line:
+					dataPt[7] = float(x.split(':')[1].split(' ')[1])
 			except:
-				continue
+				continue #print "gps capture exception"
 		elif dataType == 2:
-			# read in tab delimited values here
-			
-			
-		
+			try:
+				# read in tab delimited values here
+				y = x.replace(' ','').split('\t')
+				if (y[4] == 'Y'):
+					satData[0].append(int(y[1]))
+					satData[1].append(float(y[2]))
+			except:
+				continue #print "sv capture exception"
 
-# ugh need pseudocode
-# 1. open file for read
-# 2. assume first line is a date
-# 3. read in date
-# 4. check next line contains 'Gps Measurement'
-# 5. switch to reading Sat info etc
-# 6. check next line contains 'Space Vehicle Info'
-# 7. switch to reading SV info
+print dataSet
+print dataPt
