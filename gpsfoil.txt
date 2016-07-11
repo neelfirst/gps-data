@@ -1,0 +1,11 @@
+w/foil: start 21:27:56, first fix 21:31:19. SV/CN0: 9/27 - 23/27 - 28/27 - 30/30
+w/foil: start 21:33:13, first fix 21:38:03. SV/CN0: 9/32 - 23/36 - 27/37 - 30/32
+w/foil: start 21:40:34, first fix 21:45:53. SV/CN0: 7/26 - 8/17  - 9/26  - 30/31
+w/foil: start 21:47:41, first fix 21:52:31. SV/CN0: 9/30 - 23/30 - 28/28 - 30/33
+w/foil: start 21:56:28, first fix 22:04:42. SV/CN0: 7/27 - 9/22  - 28/28 - 30/33
+
+plain: start 22:08:48, no fix for 10 minutes
+added foil @ 22:19:56, no fix for 10 minutes
+
+w/foil: start 22:37:08, not sure, but fix was present in 10 minutes
+w/foil: start 22:55:54, first fix 23:00:53, SV/CN0: 8/25-9/23-27/25-28/16-30/17

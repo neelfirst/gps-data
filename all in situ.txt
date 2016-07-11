@@ -1,0 +1,102 @@
+> time 30 s
+
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 9
+  Latitude     : +37.87519530 deg
+  Longitude    : -122.30285600 deg
+  Altitude     : -00013.155 m
+  Pos Acc      : 11.85  13.05  10.23 m
+  Vel Acc      : 00.30 m/s
+  Time Acc     : 7    ns
+
+Space Vehicle Info:
+  Ch    SV      CN0     Residual        Nav     Qi      El      Az      Orbit  S
+  6     5       39      -1.02   Y       6       20      279     Eph     Y      N
+  7     7       44      -0.60   Y       7       61      55      Eph     Y      N
+  8     8       47      +1.41   Y       7       34      58      Eph     Y      N
+  9     9       46      +0.31   Y       7       37      156     Eph     Y      N
+  3     17      38      -0.65   Y       6       9       184     Eph     Y      N
+  4     23      37      -2.63   Y       6       6       147     Eph     Y      N
+  5     27      34      +5.19   Y       6       11      37      Eph     Y      N
+  0     28      45      +2.01   Y       7       55      242     Eph     Y      N
+  1     30      50      -1.36   Y       7       65      336     Eph     Y      N
+  11    11      38      +0.00   N       6       -91     0       none    N      N
+  14    14      0       +0.00   N       1       -91     0       none    N      N
+  15    15      0       +0.00   N       1       -91     0       none    N      N
+  13    21      0       +0.00   N       1       -91     0       none    N      N
+  10    133     39      +0.00   N       6       42      141     Eph     N      N
+  12    134     0       +0.00   N       1       15      250     none    N      N
+  2     138     42      +0.00   N       6       43      156     Eph     N      N
+
+--------------------------------------------------------------------------------
+
+> time 30 s
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 9
+  Latitude     : +37.87520180 deg
+  Longitude    : -122.30283340 deg
+  Altitude     : -00019.469 m
+  Pos Acc      : 11.16  08.07  09.08 m
+  Vel Acc      : 00.22 m/s
+  Time Acc     : 6    ns
+
+Space Vehicle Info:
+  Ch    SV      CN0     Residual        Nav     Qi      El      Az      Orbit  S
+  5     5       38      +2.40   Y       6       20      278     Eph     Y      N
+  7     7       43      -0.52   Y       7       61      57      Eph     Y      N
+  8     8       45      -0.55   Y       7       33      57      Eph     Y      N
+  9     9       44      +2.36   Y       6       36      157     Eph     Y      N
+  11    11      38      +2.02   Y       6       15      110     Eph     Y      N
+  2     17      36      -4.53   Y       6       10      184     Eph     Y      N
+  3     23      38      -3.34   Y       6       5       147     Eph     Y      N
+  0     28      40      -2.41   Y       7       56      243     Eph     Y      N
+  1     30      47      +1.32   Y       7       66      338     Eph     Y      N
+  13    13      0       +0.00   N       1       -91     0       none    N      N
+  14    14      0       +0.00   N       1       -91     0       none    N      N
+  15    15      0       +0.00   N       1       -91     0       none    N      N
+  10    16      0       +0.00   N       1       -91     0       none    N      N
+  6     133     38      +0.00   N       6       39      143     none    N      N
+  12    134     0       +0.00   N       1       15      250     none    N      N
+  4     138     40      +0.00   N       6       43      156     none    N      N
+
+--------------------------------------------------------------------------------
+
+> time 30s
+------------------------------  Gps Measurement  -------------------------------
+
+Gps Solution:
+  Sats visible : 16
+  Sats used    : 8
+  Latitude     : +37.87519190 deg
+  Longitude    : -122.30282010 deg
+  Altitude     : -00017.397 m
+  Pos Acc      : 27.27  18.79  20.72 m
+  Vel Acc      : 00.54 m/s
+  Time Acc     : 15   ns
+
+Space Vehicle Info:
+  Ch    SV      CN0     Residual        Nav     Qi      El      Az      Orbit  S
+  5     5       34      +6.40   Y       6       20      277     Eph     Y      N
+  7     7       42      -0.29   Y       6       61      58      Eph     Y      N
+  8     8       42      -0.82   Y       6       33      57      Eph     Y      N
+  9     9       41      +2.03   Y       6       35      157     Eph     Y      N
+  11    11      35      +2.69   Y       6       16      110     Eph     Y      N
+  4     23      38      -4.06   Y       6       4       147     Eph     Y      N
+  2     28      36      -14.74  Y       6       56      244     Eph     Y      N
+  0     30      40      +1.30   Y       6       66      340     Eph     Y      N
+  12    12      0       +0.00   N       1       -91     0       none    N      N
+  13    13      0       +0.00   N       1       -91     0       none    N      N
+  14    14      0       +0.00   N       1       -91     0       none    N      N
+  15    15      0       +0.00   N       1       -91     0       none    N      N
+  1     17      36      +0.00   N       6       -91     0       none    N      N
+  6     133     0       +0.00   N       1       39      143     none    N      N
+  10    134     0       +0.00   N       1       15      250     none    N      N
+  3     138     38      +0.00   N       6       43      156     none    N      N
+
+--------------------------------------------------------------------------------

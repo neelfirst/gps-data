@@ -1,0 +1,61 @@
+Summary of tests:
+
+Friday 03/04: Test location: Inside warehouse, inside EE room.
+
+Received email from VectorNav re: ground plane. Created an antenna ground plane using a 17cm x 24cm x 0.4cm aluminum slab and a lead wire connected to Jetson PCB ground.
+
+Tested Tallysmann 4421 antenna with and without ground plane on spectrum analyzer. Found no difference in antenna reception.
+
+Tested Tallysmann 4421 with ground plane and with Vectornav powered/connected via USB to laptop. Within 3 minutes an 8 satellite fix was acquired. Repeated two more times with 6 and 7 satellite fixes within 3 and 4 minutes.
+
+Tested Tallysman 4421 with ground plane on top of operational Spotcam and with Vectornav powered/connected via USB to laptop. Within 5 minutes a 4 satellite fix was acquired. Repeated two more times and got a 5 sat fix, and then no fix, within 5 minutes.
+
+(This is the Spotcam shell test - observed decrease in performance when Antenna+groundplane on top of powered Spotcam. Since these results were irreproducible, unclear what impact this has on final conclusions.)
+
+Monday 03/07:
+
+Unable to replicate Friday's results. With Antenna ground plane or without. Tested this multiple times against different antenna types (Tallysmann 4421, Linx GPS-ANT-SH, Tallysmann 2410). Under all scenarios no fix was obtained within 5 minutes.
+
+Fixes were eventually obtained in about 10 minutes. Time-to-fix may have been slightly faster via USB/laptop (maybe 8 minutes vs 9 minutes) but I considered those all to be failures, and did not accurately record the timings (other than >5 mins).
+
+Tuesday 03/08:
+
+Under all indoor scenarios no fix was obtained within 5 minutes.
+
+Determined spectrum analyzer output was not useful in ascertaining strength of GPS signal, or performance of GPS antennas, since GPS signal is below the noise floor of the spectrum analyzer. Determined signals seen (which did not fluctuate regardless of antenna attached, unless the antenna itself was known to be bad) must be red herrings.
+
+Tested Friday's setup outside and found strong fixes in all scenarios (>8 satellites in under 1 minute). Variables tested were antenna status and vectornav status.
+
+(This determines the VN performance is excellent under strong signal conditions).
+
+Friday 03/11 Inside EE room.
+
+Measured EMI inside Spotcam using GPS antenna and spectrum analyzer. Found strong (+30 dB) EMI from SSD during disk I/O and weak (+5 dB) EMI from USB subsystem and Jetson PCB. Disabled SSD and found no improvement in time-to-fix. No fix was obtained within 5 minutes. Tested both with Vectornav powered via external laptop and in situ via Jetson.
+
+Tested U-Blox receiver against VN200 inside EE room. Also struggled with time-to-fix but consistently beat VN200 performance w.r.to time. Tested this multiple times against different antenna types (Tallysmann 4421, Linx GPS-ANT-SH, Tallysmann 2410). CN0 strength around 30.
+
+(This suggests the VN200 struggles more than other receivers in weak signal conditions, regardless of antenna).
+
+Tested U-Blox and VN200 outside EE room, both obtained strong fixes in under 60 seconds. Tested VN200 and antenna under all combination of Vectornav/antenna conditions, found no discernible difference in performance. Lid & SSD had no discernible impact on performance. CN0 strength around 40. (10x stronger)
+
+(This suggests under strong signal conditions, no variables tested have an impact on VN200/antenna performance).
+
+Variables tested:
+* Spotcam status: None, empty shell, populated shell, powered on shell [03/04]
+(when powered on, GPS fix becomes weaker - fewer satellites, longer time-to-fix)
+(no discernible difference between other states)
+* Vectornav status: USB-laptop, USB-Jetson, UART-Jetson, UART-Jetson-mounted [03/07]
+(no discernible difference)
+* Antenna status: External-free space, external-ground plane, internal [03/04 | 03/07]
+(some improvement with ground plane)
+(no discernible difference between external-free space and internal)
+* Test location: Inside EE room (weak signal), outside EE room (strong signal) [03/11]
+(excellent performance in strong signal environment)
+* SSD status (strong EMI generator): Active, inactive [03/11]
+(no discernible difference)
+* Lid status: Off, on [03/11]
+(no discernible difference)
+
+Conclusions: VN200 performs poorly in weak signal conditions, more so than the U-Blox receiver, and independently of antenna type. VN200 performs strongly in strong signal conditions, and independently of potential interferers.
+
+What remains to be seen is - can we create a marginal scenario in which the VN200 performs poorly in vivo Spotcam but performs well ex vivo (via USB/laptop). Only then can we dig deeper to figure out whether the problem lies with the receiver, the antenna, or the Spotcam.
